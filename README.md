@@ -204,7 +204,7 @@ Das proprietäre Fujitsu PoE-Modul ist optional erhältlich.
 \- Offiziell max. 8GB, mit selbem Chipsatz wurden maximal 2x16GB bestätigt, 1x32GB ist wohl nicht machbar ([1](https://www.reddit.com/r/homelab/comments/flqcs6/asrock_j4105itx_32gb_success/))  
 \- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt ([1](https://www.mydealz.de/comments/permalink/37675998))  
 
-\- Liste mit funktionierenden RAM Modulen >>hier<<
+\- Liste mit funktionierenden RAM Modulen [>>hier<<](https://github.com/R3NE07/Futro-S740/blob/main/ram_modules.md)
 
 ## 2 - Firmware  
 
@@ -293,8 +293,100 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 
 > Tipp: Wer trotzdem ein neues Netzteil braucht, Leicke Netzteile sind am beliebtesten für ihre Effizienz.  
 
-\- Liste mit gemessen Energieverbrauchswerten >>hier<<
+\- Liste mit gemessen Energieverbrauchswerten [>>hier<<](https://github.com/R3NE07/Futro-S740/blob/main/power_consumption.md)
 
 ## 6 - Gemeldete Probleme  
+
+\- BIOS kann nur EFI Systeme booten, nicht Legacy & Festplatte muss als GPT nicht MBR formatiert sein (1, 2, 3, 4, 5, )  
+\- Booten von externem USB nicht möglich  
+\- Booten von TrueNAS nicht möglich  
+\- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, )  
+\- Rattelndes Geräusch: Unter einer der 4 Schrauben die den CPU Kühlkörper festhalten ist eine Unterlegscheibe die zu groß ist - macht aber nichts  
+\- Bei manchen liegt ein loses „Aluröhrchen“ im PC - das ist eine Art Polster die sonst im inneren des Gehäuses geklebt ist und gegen das I/O Shield drücken würde aus ESD Gründen (1, 2, 3, )  
+\- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC (1, 2, 3, 4, )  
+\- USB-Stick wird nicht als Boot Option aufgelistet  
+\- Linux bootet nicht? Booteintrag muss manuell angelegt werden (1, 2, 3, 4, 5, 6, 7, )  
+\- USB Stick bootet nicht? Secure Boot im BIOS-Setup deaktivieren  
+\- Nach HomeAssistant Installation wird SSD nicht als Bootoption aufgelistet (1, 2, 3, 4, 5, )  
+\- Bei HomeAssistant muss sda1, nicht sda angegeben werden  
+\- Nach pfSense / OPNsense Installation wird SSD nicht als Bootoption aufgelistet (1, 2, 3, )  
+\- Nach Ubuntu Installation wird SSD nicht als Bootoption aufgelistet  
+\- Alpine Linux hat nicht gebootet  
+\- Batocera bootet nicht von SSD  
+\- LibreElec bootet nicht von SSD (1, 2, 3, )  
+\- Schaltet nach paar Sekunde wieder aus ohne etwas zu booten (1, 2, 3, )  
+\- Fehlende Treiber unter Windows (1, 2, 3, 4, 5, 6, )  
+\- SSD Schraube lässt sich nicht lösen (1, 2, 3, 4, 5, )  
+\- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt  
+\- Wildwiedergabe unter Windows 11 sehr langsam  
+\- WiFi USB Dingle funktionieren nicht unter Chrome OS Flex  
+\- SATA Adapter funktioniert nicht im M2 Port  
+\- WoL funktioniert nicht (1, 2, 3, 4, )  
+\- Adguard Home funktioniert nicht  
+\- BIOS Version aktualisiert sich nicht nach Update  
+\- Schlechte Audioqualität (1, 2, 3, 4, )  
+\- iGPU lässt sich nicht mit Windows VM in Proxmox benutzen  
+\- EndeavourOS flackernder Bildschirm  
+\- LAN-Karte im M.2 WiFi Port (A/E-Key) funktioniert nicht  
+\- Win10 IOT „bitte warten“ Schleife, Apps funktionieren nicht  
+\- ConBee USB Zigbee Stick disconnected stündlich in Proxmox & Debian  
+\- Ethernet funktioniert nicht mehr  
+\- Proxmox Meldung "You do not have a valid Subscription"  
+\- Batocera stürzt ab wenn Monitor ohne Lautsprecher angeschlossen ist  
+\- Netzwerkprobleme unter Debian 11  
+\- 1Gbit LAN-Karte wird als 100Mbit Karte angezeigt  
+\- interner USB-C Header wird unter Proxmox nicht erkannt  
+\- Netzwerkprobleme unter Proxmox  
+\- Wifi funktioniert nicht unter Proxmox  
+\- Linux bootet nach BIOS Update (14.10.2022) nicht  
+\- BIOS Update von USB Stick findet keine Datei  
+\- Audio gibt nur Stereo aus  
+\- Audio Passthrough funktioniert nicht  
+\- USB Festplatten gehen nicht auf Standby unter Proxmox  
+\- K3OS bootet nicht  
+\- Video/Audio Passthrough funktioniert in Proxmox (mit Libreelec/Kodi) nicht  
+\- Windows 11 USB Stick bootet nicht  
+
+
 ## 7 - Links  
+
+\- [D3544-S Mainboard Datenblatt von Kontron](https://www.kontron.com/download/download?filename=/downloads/datasheets/d/d3544-s-mstx_20210129_datasheet.pdf&product=157718) (ähnlich dem D3544-A aus dem S740)  
+\- [Fujitsu Futro S740 Datenblatt](https://manualzz.com/doc/62121610/fujitsu-futro-s740-manual)  
+\- [Vergleich eines Raspberry Pi 4 VS. Intel J4105 System](https://uni.hi.is/helmut/2021/06/07/power-consumption-of-raspberry-pi-4-versus-intel-j4105-system/)  
+\- [WiFi Geschwindigkeitstest](https://www.mydealz.de/comments/permalink/37694659)  
+\- [passende M2 SATA SSDs auf Geizhals suchen](https://geizhals.de/?cat=hdssd&xf=252_120%7E4832_4)  
+\- [Batocera auf internem Speicher installieren](https://www.mydealz.de/comments/permalink/37581112)  
+\- [Proxmox Helper Scripts](https://tteck.github.io/Proxmox/)  
+\- [Offizielle Downloadseite für Treiber, BIOS Update, PDFs](https://support.ts.fujitsu.com/IndexDownload.asp?lng=de&OpenTab=)  
+\- [Thread über Proxmox VS. Docker](https://www.mydealz.de/comments/permalink/37675393)  
+\- 3D gedruckter Standfuß ([1](https://www.thingiverse.com/thing:5529474), [2](https://www.printables.com/de/model/288427-fujitsu-futro-s740-feets), [3](https://www.printables.com/de/model/284749-base-stand-for-fujitsu-futro-s740))  
+\- [3D gedruckter VESA-Mount Adapter](https://www.printables.com/de/model/287058-vesa-monitor-mount-adapter-plate-for-fujitsu-futro)  
+\- [[Video] Kipper auf S740 installieren um 3D Drucker zu steuern](https://www.youtube.com/watch?v=bUENy-sOL9c)  
+\- [Nextcloud mit Reverse Proxy installieren (auf Nginx/Proxmox)](https://www.schreiners-it.de/nextcloud/nextcloud-hinter-reverse-proxy-installieren/)  
+\- [3D Modelle](http://sp-it.net/index.php?option=com_content&view=article&id=1566&Itemid=140&jsmallfib=1&dir=JSROOT/drivers/fujitsu/Products/Mainboards/Industrial-und-ExtendedLifetime/D3544-S_Mini-STX/Mechanics-und-3D#/div--div-download)  
+\- [Jedes Linux System mit powertop & cpu-governor optimieren](https://www.mydealz.de/comments/permalink/37740815)  
+\- [Liste mit Software zum selbst hosten](https://www.reddit.com/r/selfhosted/comments/bsp01i/welcome_to_rselfhosted_please_read_this_first/)  
+\- [[Video] Einfach pi-Hole in Proxmox installieren](https://youtu.be/_O7kRBEu6T0)  
+\- [Proxmox installieren & Backups von Containern automatisch anlegen](https://decatec.de/home-server/proxmox-ve-installation-und-grundkonfiguration/#Installation)  
+\- [„M.2 for Hackers“ - Hackaday Article](https://hackaday.com/2022/10/27/m-2-for-hackers-expand-your-laptop/)  
+\- [Passmark Benchmark](https://www.mydealz.de/comments/permalink/37607626)  
+\- [CPU Benchmark mit anderen CPUs vergleichen](https://www.cpubenchmark.net/compare/BCM2711-vs-Intel-Celeron-J4105/4297vs3159)  
+\- HardwareLuxx Threads über Stromsparende Systeme ([<30W](https://www.hardwareluxx.de/community/threads/die-sparsamsten-systeme-30w-idle.1007101/), [<10W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-10w-idle-verbrauch-inkl-llano-fm1-beispiel.799083/), [<6W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-6w-idle-verbrauch-inkl-haswell-beispiel.1001484/))  
+
 ## 8 - Bilder 
+
+\- [Innenleben](https://www.mydealz.de/comments/permalink/37555659)  
+\- [2280 SSD mit 2230 WiFi-Karte gleichzeit eingebaut](https://www.mydealz.de/comments/permalink/37562446)  
+\- [Mainboard Layout & interne Anschlüsse](https://www.mydealz.de/comments/permalink/37574631) (manche davon sind nicht bestückt!)  
+\- [2,5“ SSD im Gehäuse untergebracht](https://www.mydealz.de/comments/permalink/37666881)  
+\- [4-fach SATA Adapter in M.2 Slot](https://www.mydealz.de/comments/permalink/37880720)  
+\- WiFi Antennen nachrüsten ([1](https://www.mydealz.de/comments/permalink/37705901), [2](https://www.mydealz.de/comments/permalink/37812712))  
+\- [PowerDelivery Powerbank als USV](https://www.mydealz.de/comments/permalink/37733114)  
+\- [Stifte auf denen M2 Module geschraubt sind, sind gelötet, nicht geschraubt](https://www.mydealz.de/comments/permalink/37737490)  
+\- [2. LAN-Buchse anstelle des RS232-Ports eingebaut](https://www.mydealz.de/comments/permalink/37993363)  
+\- [USB-C nachgerüstet](https://www.mydealz.de/comments/permalink/38001225)  
+\- [Platzierung des bei manchen „abgefallenem Aluröhrchen“](https://www.mydealz.de/comments/permalink/38049356)  
+\- [Zweite M.2 SSD mit Adapter im M.2 WiFi Slot](https://www.mydealz.de/comments/permalink/38096778)  
+\- [Zwei 2,5“ SSDs außen angebracht](https://www.mydealz.de/comments/permalink/38159297)  
+\- [nachgelöteter SATA Port](https://imgur.com/a/TAmADFS)  
+
