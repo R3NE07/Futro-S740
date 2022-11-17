@@ -1,4 +1,4 @@
-baseURL = 'immae1.github.io/Futro-S740-hugo'
+baseURL = '<githubusername>.github.io/Futro-S740-hugo' #TODO replace with your Github username
 languageCode = 'en-us'
 title = 'Homelab - Futro-S740 - collection'
 theme = "ananke"
