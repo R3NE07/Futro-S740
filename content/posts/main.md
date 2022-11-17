@@ -1,5 +1,5 @@
 ---
-title: "Main"
+title: "Guidem, Specs & Information"
 date: 2022-11-18T00:15:57+01:00
 draft: false
 ---
