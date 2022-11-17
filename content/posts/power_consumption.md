@@ -1,3 +1,9 @@
+---
+title: "Power consumption"
+date: 2022-11-18T00:15:57+01:00
+draft: false
+---
+
 ## Offizielles Datenblatt:  
 \- long idle 5.01 W  
 \- sleep mode power 1.25 W (WoL enabled)  
