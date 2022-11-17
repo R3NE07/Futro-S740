@@ -1,3 +1,9 @@
+---
+title: "Main"
+date: 2022-11-18T00:15:57+01:00
+draft: false
+---
+
 # Futro S740 - Guide/ Specs/ Information
 
 ## Inhalt
@@ -389,4 +395,5 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [Zweite M.2 SSD mit Adapter im M.2 WiFi Slot](https://www.mydealz.de/comments/permalink/38096778)  
 \- [Zwei 2,5“ SSDs außen angebracht](https://www.mydealz.de/comments/permalink/38159297)  
 \- [nachgelöteter SATA Port](https://imgur.com/a/TAmADFS)  
+
 

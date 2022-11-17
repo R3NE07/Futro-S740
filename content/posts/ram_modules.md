@@ -1,3 +1,9 @@
+---
+title: "Memory"
+date: 2022-11-18T00:15:57+01:00
+draft: false
+---
+
 ## Unterstützte RAM Module:  
 \- sk hynix 4GB DDR4-2666 hma851s6cjr6n-vk (Standard)  
 \- SK HYNIX 16 GB 2Rx8 PC4-2400T-SE1-11 HMA82GS6AFR8N-UH ([1](https://www.mydealz.de/comments/permalink/37572566))  

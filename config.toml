@@ -1,0 +1,4 @@
+baseURL = 'immae1.github.io/Futro-S740-hugo'
+languageCode = 'en-us'
+title = 'Homlab - Futro-S740 - collection'
+theme = "ananke"
