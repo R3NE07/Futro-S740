@@ -257,34 +257,34 @@ Download Links:
 
 ### 3.1 Server Betriebssysteme  
 
-\- Ubuntu Server: ressourcenschonendste Ubuntu-Variante ohne GUI (1, 2, 3, )  
-\- Proxmox: Programme laufen in voneinander unabhängigen Containern/VMs (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, )  
+\- Ubuntu Server: ressourcenschonendste Ubuntu-Variante ohne GUI ([1](https://www.mydealz.de/comments/permalink/37679443))  
+\- Proxmox: Programme laufen in voneinander unabhängigen Containern/VMs ([1](https://www.mydealz.de/comments/permalink/37707039), [2](https://www.mydealz.de/comments/permalink/37740815), [3](https://www.mydealz.de/comments/permalink/37779177), [4](https://www.mydealz.de/comments/permalink/37779546), [5](https://www.mydealz.de/comments/permalink/37810025), [6](https://www.mydealz.de/comments/permalink/37824886), [7](https://www.mydealz.de/comments/permalink/37965374), [8](https://www.mydealz.de/comments/permalink/38000195), [9](https://www.mydealz.de/comments/permalink/38000846), [10](https://www.mydealz.de/comments/permalink/38088956), [11](https://www.mydealz.de/comments/permalink/38091387), [12](https://www.mydealz.de/comments/permalink/38094779), [13](https://www.mydealz.de/comments/permalink/38190848), [14](https://www.mydealz.de/comments/permalink/38201081))  
 \- Unraid: NAS OS (erlaubt auch Container/VMs wie mit Proxmox)  
-\- pfsense: Firewall (erfordert 2. LAN-Buchse oder VLAN) (1, 2, 3, )  
-\- OPNsense: Firewall (1, 2, 3, 4, )  
+\- pfsense: Firewall (erfordert 2. LAN-Buchse oder VLAN) ([1](https://www.mydealz.de/comments/permalink/37736675))  
+\- OPNsense: Firewall ([1](https://www.mydealz.de/comments/permalink/37671080), [2](https://www.mydealz.de/comments/permalink/37821932), [3](https://www.mydealz.de/comments/permalink/38189725))  
 \- TrueNAS: NAS-OS  
 \- Openmediavault: NAS-OS  
-\- Xpenology: Opensource Synology-OS Portierung für ein DIY NAS (1, 2, 3, 4, 5, )  
-\- Homeassistant OS (1, 2, 3, )  
-\- ESXi 6.7 Zustrom: Hypervisor wie Proxmox  
-\- Raspberrymatic (1, 2, )  
+\- Xpenology: Opensource Synology-OS Portierung für ein DIY NAS ([1](https://www.mydealz.de/comments/permalink/37855651))  
+\- Homeassistant OS ([1](https://www.mydealz.de/comments/permalink/38089223), [2](https://www.mydealz.de/comments/permalink/38201081))  
+\- ESXi 6.7 Zustrom: Hypervisor wie Proxmox ([1](https://www.mydealz.de/comments/permalink/37579814))  
+\- Raspberrymatic ([1](https://www.mydealz.de/comments/permalink/37708467))  
 
 
 ### 3.2 Desktop Betriebssysteme  
 
-\- Windows 11 Offiziell Unterstützt  
-\- Windows 10 (1, 2, 3, 4, 5, 6, )  
-\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche (1, 2, 3, 4, )  
-\- Xubuntu / Lubuntu: ressourcenschonendere Ubuntu Variante mit GUI (1, 2, 3, 4, )  
-\- Linux Mint: Einsteigerfreundliches Linux-System mit GUI (Layout ähnelt Windows Oberfläche) (1, 2, 3, 4, 5, )  
-\- MX Linux: Vollwertige aber ressourcenschonende Debian Distro mit GUI (1, 2, 3, 4, )  
-\- Debian (1, 2, 3, )  
-\- DietPi: Extremely Lightweight Debian OS (1, 2, 3, 4, )  
-\- LibreELEC: beschte OS für Mediaplayer (kommt mit Kodi installiert) (1, 2, 3, )  
-\- Batocera: Emulator Gamestation (1, 2, 3, 4, 5, )  
-\- Endeavour OS (1, 2, 3, )  
-\- ChromeOS Flex (1, 2, 3, 4, )  
-\- Devuan (1, 2, 3, )  
+\- Windows 11 Offiziell Unterstützt ([1](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors?ranMID=46128&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&epi=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&irgwc=1&OCID=AID2200057_aff_7794_1243925&tduid=(ir__su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00)(7794)(1243925)(hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg)()&irclickid=_su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00))  
+\- Windows 10 ([1](https://www.mydealz.de/comments/permalink/37749965), [2](https://www.mydealz.de/comments/permalink/37750809), [3](https://www.mydealz.de/comments/permalink/37794159), [4](https://www.mydealz.de/comments/permalink/37847344), [5](https://www.mydealz.de/comments/permalink/38190647))  
+\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche ([1](https://www.mydealz.de/comments/permalink/37815181)) 
+\- Xubuntu / Lubuntu: ressourcenschonendere Ubuntu Variante mit GUI  
+\- Linux Mint: Einsteigerfreundliches Linux-System mit GUI (Layout ähnelt Windows Oberfläche) ([1](https://www.mydealz.de/comments/permalink/37712773))  
+\- MX Linux: Vollwertige aber ressourcenschonende Debian Distro mit GUI ([1](https://www.mydealz.de/comments/permalink/37770939), [2](https://www.mydealz.de/comments/permalink/37964669))  
+\- Debian ([1](https://www.mydealz.de/comments/permalink/37767466), [2](https://www.mydealz.de/comments/permalink/37842619), [3](https://www.mydealz.de/comments/permalink/37987037))  
+\- DietPi: Extremely Lightweight Debian OS ([1](https://www.mydealz.de/comments/permalink/37884979))  
+\- LibreELEC: beschte OS für Mediaplayer (kommt mit Kodi installiert) ([1](https://www.mydealz.de/comments/permalink/38190848))  
+\- Batocera: Emulator Gamestation ([1](https://www.mydealz.de/comments/permalink/37714216), [2](https://www.mydealz.de/comments/permalink/37959699))  
+\- Endeavour OS ([1](https://www.mydealz.de/comments/permalink/37714720))  
+\- ChromeOS Flex ([1](https://www.mydealz.de/comments/permalink/37823609))  
+\- Devuan ([1](https://www.mydealz.de/comments/permalink/38013633))  
 
 ## 4 - Mods  
 
@@ -303,55 +303,55 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 
 ## 6 - Gemeldete Probleme  
 
-\- BIOS kann nur EFI Systeme booten, nicht Legacy & Festplatte muss als GPT nicht MBR formatiert sein (1, 2, 3, 4, 5, )  
-\- Booten von externem USB nicht möglich  
-\- Booten von TrueNAS nicht möglich  
-\- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio (1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, )  
-\- Rattelndes Geräusch: Unter einer der 4 Schrauben die den CPU Kühlkörper festhalten ist eine Unterlegscheibe die zu groß ist - macht aber nichts  
-\- Bei manchen liegt ein loses „Aluröhrchen“ im PC - das ist eine Art Polster die sonst im inneren des Gehäuses geklebt ist und gegen das I/O Shield drücken würde aus ESD Gründen (1, 2, 3, )  
-\- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC (1, 2, 3, 4, )  
-\- USB-Stick wird nicht als Boot Option aufgelistet  
-\- Linux bootet nicht? Booteintrag muss manuell angelegt werden (1, 2, 3, 4, 5, 6, 7, )  
-\- USB Stick bootet nicht? Secure Boot im BIOS-Setup deaktivieren  
-\- Nach HomeAssistant Installation wird SSD nicht als Bootoption aufgelistet (1, 2, 3, 4, 5, )  
-\- Bei HomeAssistant muss sda1, nicht sda angegeben werden  
-\- Nach pfSense / OPNsense Installation wird SSD nicht als Bootoption aufgelistet (1, 2, 3, )  
-\- Nach Ubuntu Installation wird SSD nicht als Bootoption aufgelistet  
-\- Alpine Linux hat nicht gebootet  
-\- Batocera bootet nicht von SSD  
-\- LibreElec bootet nicht von SSD (1, 2, 3, )  
-\- Schaltet nach paar Sekunde wieder aus ohne etwas zu booten (1, 2, 3, )  
-\- Fehlende Treiber unter Windows (1, 2, 3, 4, 5, 6, )  
-\- SSD Schraube lässt sich nicht lösen (1, 2, 3, 4, 5, )  
-\- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt  
-\- Wildwiedergabe unter Windows 11 sehr langsam  
-\- WiFi USB Dingle funktionieren nicht unter Chrome OS Flex  
-\- SATA Adapter funktioniert nicht im M2 Port  
-\- WoL funktioniert nicht (1, 2, 3, 4, )  
-\- Adguard Home funktioniert nicht  
-\- BIOS Version aktualisiert sich nicht nach Update  
-\- Schlechte Audioqualität (1, 2, 3, 4, )  
-\- iGPU lässt sich nicht mit Windows VM in Proxmox benutzen  
-\- EndeavourOS flackernder Bildschirm  
-\- LAN-Karte im M.2 WiFi Port (A/E-Key) funktioniert nicht  
-\- Win10 IOT „bitte warten“ Schleife, Apps funktionieren nicht  
-\- ConBee USB Zigbee Stick disconnected stündlich in Proxmox & Debian  
-\- Ethernet funktioniert nicht mehr  
-\- Proxmox Meldung "You do not have a valid Subscription"  
-\- Batocera stürzt ab wenn Monitor ohne Lautsprecher angeschlossen ist  
-\- Netzwerkprobleme unter Debian 11  
-\- 1Gbit LAN-Karte wird als 100Mbit Karte angezeigt  
-\- interner USB-C Header wird unter Proxmox nicht erkannt  
-\- Netzwerkprobleme unter Proxmox  
-\- Wifi funktioniert nicht unter Proxmox  
-\- Linux bootet nach BIOS Update (14.10.2022) nicht  
-\- BIOS Update von USB Stick findet keine Datei  
-\- Audio gibt nur Stereo aus  
-\- Audio Passthrough funktioniert nicht  
-\- USB Festplatten gehen nicht auf Standby unter Proxmox  
-\- K3OS bootet nicht  
-\- Video/Audio Passthrough funktioniert in Proxmox (mit Libreelec/Kodi) nicht  
-\- Windows 11 USB Stick bootet nicht  
+\- BIOS kann nur EFI Systeme booten, nicht Legacy & Festplatte muss als GPT nicht MBR formatiert sein ([1](https://www.mydealz.de/comments/permalink/37726414), [2](https://www.mydealz.de/comments/permalink/38141002))  
+\- Booten von externem USB nicht möglich ([1](https://www.mydealz.de/comments/permalink/37545092))  
+\- Booten von TrueNAS nicht möglich ([1](https://www.mydealz.de/comments/permalink/37545132))  
+\- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio ([1](https://www.mydealz.de/comments/permalink/37718448), [2](https://www.mydealz.de/comments/permalink/37770939), [3](https://www.mydealz.de/comments/permalink/37800456), [4](https://www.mydealz.de/comments/permalink/37820943), [5](https://www.mydealz.de/comments/permalink/37862572), [6](https://www.mydealz.de/comments/permalink/37955579), [7](https://www.mydealz.de/comments/permalink/37994093), [8](https://www.mydealz.de/comments/permalink/38035070))  
+\- Rattelndes Geräusch: Unter einer der 4 Schrauben die den CPU Kühlkörper festhalten ist eine Unterlegscheibe die zu groß ist - macht aber nichts ([1](https://www.mydealz.de/comments/permalink/37583467))  
+\- Bei manchen liegt ein loses „Aluröhrchen“ im PC - das ist eine Art Polster die sonst im inneren des Gehäuses geklebt ist und gegen das I/O Shield drücken würde aus ESD Gründen ([1](https://www.mydealz.de/comments/permalink/37627200), [2](https://www.mydealz.de/comments/permalink/38046826))  
+\- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC ([1](https://www.mydealz.de/comments/permalink/37607473), [2](https://www.mydealz.de/comments/permalink/37634161))  
+\- USB-Stick wird nicht als Boot Option aufgelistet ([1](https://www.mydealz.de/comments/permalink/37570172))  
+\- Linux bootet nicht? Booteintrag muss manuell angelegt werden ([1](https://www.mydealz.de/comments/permalink/37643719), [2](https://www.mydealz.de/comments/permalink/37612394), [3](https://www.mydealz.de/comments/permalink/37581112), [4](https://www.mydealz.de/comments/permalink/37594025), [5](https://www.mydealz.de/comments/permalink/37765918), [6](https://www.mydealz.de/comments/permalink/38138143))  
+\- USB Stick bootet nicht? Secure Boot im BIOS-Setup deaktivieren ([1](https://www.mydealz.de/comments/permalink/37570618))  
+\- Nach HomeAssistant Installation wird SSD nicht als Bootoption aufgelistet ([1](https://www.mydealz.de/comments/permalink/37574050), [2](https://www.mydealz.de/comments/permalink/37592239), [3](https://www.mydealz.de/comments/permalink/37765918))  
+\- Bei HomeAssistant muss sda1, nicht sda angegeben werden ([1](https://www.mydealz.de/comments/permalink/37599273))  
+\- Nach pfSense / OPNsense Installation wird SSD nicht als Bootoption aufgelistet ([1](https://www.mydealz.de/comments/permalink/37671080), [2](https://www.mydealz.de/comments/permalink/38189753))  
+\- Nach Ubuntu Installation wird SSD nicht als Bootoption aufgelistet ([1](https://www.mydealz.de/comments/permalink/37621105))  
+\- Alpine Linux hat nicht gebootet ([1](https://www.mydealz.de/comments/permalink/37677089))  
+\- Batocera bootet nicht von SSD ([1](https://www.mydealz.de/comments/permalink/37733091))  
+\- LibreElec bootet nicht von SSD ([1](https://www.mydealz.de/comments/permalink/37798683), [2](https://www.mydealz.de/comments/permalink/38137111))  
+\- Schaltet nach paar Sekunde wieder aus ohne etwas zu booten ([1](https://www.mydealz.de/comments/permalink/37580346), [2](https://www.mydealz.de/comments/permalink/37589012), [3](https://www.mydealz.de/comments/permalink/37986129))  
+\- Fehlende Treiber unter Windows ([1](https://www.mydealz.de/comments/permalink/37637491), [2](https://www.mydealz.de/comments/permalink/37656540), [3](https://www.mydealz.de/comments/permalink/37899015), [4](https://www.mydealz.de/comments/permalink/38101894))  
+\- SSD Schraube lässt sich nicht lösen ([1](https://www.mydealz.de/comments/permalink/37621349), [2](https://www.mydealz.de/comments/permalink/37824521), [3](https://www.mydealz.de/comments/permalink/37959613))  
+\- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt ([1](https://www.mydealz.de/comments/permalink/37675998))  
+\- Wildwiedergabe unter Windows 11 sehr langsam ([1](https://www.mydealz.de/comments/permalink/37691439))  
+\- WiFi USB Dingle funktionieren nicht unter Chrome OS Flex ([1](https://www.mydealz.de/comments/permalink/37699063))  
+\- SATA Adapter funktioniert nicht im M2 Port ([1](https://www.mydealz.de/comments/permalink/37687195))  
+\- WoL funktioniert nicht ([1](https://www.mydealz.de/comments/permalink/37712773), [2](https://www.mydealz.de/comments/permalink/37716676))  
+\- Adguard Home funktioniert nicht ([1](https://www.mydealz.de/comments/permalink/37713825))  
+\- BIOS Version aktualisiert sich nicht nach Update ([1](https://www.mydealz.de/comments/permalink/37764927))  
+\- Schlechte Audioqualität ([1](https://www.mydealz.de/comments/permalink/37765045), [2](https://www.mydealz.de/comments/permalink/37974674))  
+\- iGPU lässt sich nicht mit Windows VM in Proxmox benutzen ([1](https://www.mydealz.de/comments/permalink/37779177))  
+\- EndeavourOS flackernder Bildschirm ([1](https://www.mydealz.de/comments/permalink/37814055))  
+\- LAN-Karte im M.2 WiFi Port (A/E-Key) funktioniert nicht ([1](https://www.mydealz.de/comments/permalink/37791852))  
+\- Win10 IOT „bitte warten“ Schleife, Apps funktionieren nicht ([1](https://www.mydealz.de/comments/permalink/37847344))  
+\- ConBee USB Zigbee Stick disconnected stündlich in Proxmox & Debian ([1](https://www.mydealz.de/comments/permalink/37856049))  
+\- Ethernet funktioniert nicht mehr ([1](https://www.mydealz.de/comments/permalink/37873460))  
+\- Proxmox Meldung "You do not have a valid Subscription" ([1](https://www.mydealz.de/comments/permalink/37898869))  
+\- Batocera stürzt ab wenn Monitor ohne Lautsprecher angeschlossen ist ([1](https://www.mydealz.de/comments/permalink/37959699))  
+\- Netzwerkprobleme unter Debian 11 ([1](https://www.mydealz.de/comments/permalink/37987037))  
+\- 1Gbit LAN-Karte wird als 100Mbit Karte angezeigt ([1](https://www.mydealz.de/comments/permalink/38133018))  
+\- interner USB-C Header wird unter Proxmox nicht erkannt ([1](https://www.mydealz.de/comments/permalink/38032107))  
+\- Netzwerkprobleme unter Proxmox ([1](https://www.mydealz.de/comments/permalink/38016672))  
+\- Wifi funktioniert nicht unter Proxmox ([1](https://www.mydealz.de/comments/permalink/38029244))  
+\- Linux bootet nach BIOS Update (14.10.2022) nicht ([1](https://www.mydealz.de/comments/permalink/38054730))  
+\- BIOS Update von USB Stick findet keine Datei ([1](https://www.mydealz.de/comments/permalink/38076547))  
+\- Audio gibt nur Stereo aus ([1](https://www.mydealz.de/comments/permalink/38065001))  
+\- Audio Passthrough funktioniert nicht ([1](https://www.mydealz.de/comments/permalink/38075215))  
+\- USB Festplatten gehen nicht auf Standby unter Proxmox ([1](https://www.mydealz.de/comments/permalink/38085198))  
+\- K3OS bootet nicht ([1](https://www.mydealz.de/comments/permalink/38132574))  
+\- Video/Audio Passthrough funktioniert in Proxmox (mit Libreelec/Kodi) nicht ([1](https://www.mydealz.de/comments/permalink/38190848))  
+\- Windows 11 USB Stick bootet nicht ([1](https://www.mydealz.de/comments/permalink/38202930))  
 
 
 ## 7 - Links  
