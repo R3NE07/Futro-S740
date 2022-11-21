@@ -9,7 +9,8 @@ draft: false
 \- SK HYNIX 16 GB 2Rx8 PC4-2400T-SE1-11 HMA82GS6AFR8N-UH ([1](https://www.mydealz.de/comments/permalink/37572566))  
 \- HP S1 Series 16GB DDR4-2400 - 7EH96AA ([1](https://www.mydealz.de/comments/permalink/37765201))  
 \- Crucial 16GB DDR4-2400 CT16G4SFD824A.C16FHD1 ([1](https://www.mydealz.de/comments/permalink/37684907), [2](https://www.mydealz.de/comments/permalink/37698423), [3](https://www.mydealz.de/comments/permalink/37736092), [4](https://www.mydealz.de/comments/permalink/37758713))  
-\- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FJ ([1](https://www.mydealz.de/comments/permalink/37868599))  
+\- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FJ ([1](https://www.mydealz.de/comments/permalink/37868599))
+\- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FRS
 \- Crucial 16GB DDR4-2666 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)!!!) ([1](https://www.mydealz.de/comments/permalink/37454722), [2](https://www.mydealz.de/comments/permalink/37657476), [3](https://www.mydealz.de/comments/permalink/37674082), [4](https://www.mydealz.de/comments/permalink/37710822))  
 \- samsung 8GB DDR4 2666 m471a1k43db1-ctd ([1](https://www.mydealz.de/comments/permalink/37673934))  
 \- Crucial DDR4-2133 CT16G4SFD8213 ([1](https://www.mydealz.de/comments/permalink/37675240))  
