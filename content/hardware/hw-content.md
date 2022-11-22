@@ -169,4 +169,4 @@ Das proprietäre Fujitsu PoE-Modul ist optional erhältlich.
 \- Offiziell max. 8GB, mit selbem Chipsatz wurden maximal 2x16GB bestätigt, 1x32GB ist wohl nicht machbar ([1](https://www.reddit.com/r/homelab/comments/flqcs6/asrock_j4105itx_32gb_success/))  
 \- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt ([1](https://www.mydealz.de/comments/permalink/37675998))  
 
-\- Liste mit funktionierenden RAM Modulen {{< ref "ram_modules.md" >}} [>>oderhier<<](https://github.com/R3NE07/Futro-S740/blob/main/ram_modules.md)
+\- Liste mit funktionierenden (RAM Modulen{{< ref "ram_modules.md" >}}) [>>oderhier<<](https://github.com/R3NE07/Futro-S740/blob/main/ram_modules.md)
