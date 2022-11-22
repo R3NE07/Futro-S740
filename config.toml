@@ -1,4 +1,10 @@
 baseURL = '<githubusername>.github.io/Futro-S740-hugo' #TODO replace with your Github username
 languageCode = 'en-us'
 title = 'Homelab - Futro-S740 - collection'
-theme = "ananke"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-relearn"
+
+# For search functionality
+[outputs]
+home = [ "HTML", "RSS", "SEARCH"]
