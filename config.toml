@@ -24,7 +24,7 @@ home = [ "HTML", "RSS", "SEARCH"]
   # See the config.toml file from this documentation site to have an example.
   editURL = ""
   # Author of the site, will be used in meta information
-  author = ""
+  author = "Immanuel Haag"
   # Description of the site, will be used in meta information
   description = ""
   # Shows a checkmark for visited pages on the menu
@@ -57,30 +57,30 @@ home = [ "HTML", "RSS", "SEARCH"]
   # If set to true, hide table of contents menu in the header of all pages
   disableToc = false
   # If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
-  disableMathJax = false
+  disableMathJax = true
   # Specifies the remote location of the MathJax js
   customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
   # Initialization parameter for MathJax, see MathJax documentation
   mathJaxInitialize = "{}"
   # If set to false, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
-  disableMermaid = false
+  disableMermaid = true
   # Specifies the remote location of the Mermaid js
   customMermaidURL = "https://unpkg.com/mermaid/dist/mermaid.min.js"
   # Initialization parameter for Mermaid, see Mermaid documentation
   mermaidInitialize = "{ \"theme\": \"default\" }"
   # If set to false, load the Swagger module on every page regardless if a Swagger shortcode is present
-  disableSwagger = false
+  disableSwagger = true
   # Specifies the remote location of the RapiDoc js
   customSwaggerURL = "https://unpkg.com/rapidoc/dist/rapidoc-min.js"
   # Initialization parameter for Swagger, see RapiDoc documentation
   swaggerInitialize = "{ \"theme\": \"light\" }"
   # Hide Next and Previous page buttons normally displayed full height beside content
-  disableNextPrev = true
+  disableNextPrev = false
   # Order sections in menu by "weight" or "title". Default to "weight";
   # this can be overridden in the pages frontmatter
   ordersectionsby = "weight"
   # Change default color scheme with a variant one. Eg. can be "red", "blue", "green" or an array like [ "blue", "green" ].
-  themeVariant = "relearn-light"
+   themeVariant = [  "relearn-dark", "neon", "relearn-light" ]
   # Change the title separator. Default to "::".
   titleSeparator = "-"
   # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
@@ -90,3 +90,29 @@ home = [ "HTML", "RSS", "SEARCH"]
   # If set to true, no index.html will be appended to prettyURLs; this will cause pages not
   # to be servable from the file system
   disableExplicitIndexURLs = false
+
+[[menu.shortcuts]]
+name = "<i class='fab fa-github'></i>  Github repo"
+url = "https://github.com/immae1/Futro-S740-collection"
+weight = 10
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-camera'></i> Showcases"
+url = "more/showcase/"
+weight = 11
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bookmark'></i> Hugo Documentation"
+identifier = "hugodoc"
+url = "https://gohugo.io/"
+weight = 20
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+url = "more/credits/"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-fw fa-tags'></i> Tags"
+url = "tags/"
+weight = 40
