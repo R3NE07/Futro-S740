@@ -4,10 +4,7 @@ date: 2022-11-22T23:59:07+01:00
 draft: false
 ---
 
-&nbsp;&nbsp;3.2 Desktop Betriebssysteme  
-
-
-### 3.2 Desktop Betriebssysteme  
+# Desktop OS  
 
 \- Windows 11 Offiziell Unterstützt ([1](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors?ranMID=46128&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&epi=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&irgwc=1&OCID=AID2200057_aff_7794_1243925&tduid=(ir__su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00)(7794)(1243925)(hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg)()&irclickid=_su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00))  
 \- Windows 10 ([1](https://www.mydealz.de/comments/permalink/37749965), [2](https://www.mydealz.de/comments/permalink/37750809), [3](https://www.mydealz.de/comments/permalink/37794159), [4](https://www.mydealz.de/comments/permalink/37847344), [5](https://www.mydealz.de/comments/permalink/38190647))  

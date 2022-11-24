@@ -3,6 +3,8 @@ archetype = "chapter"
 title = "Hardware"
 weight = 2
 +++
+
+#TODO
 # 1 - Hardware  
 
 ## Inhalt

@@ -4,21 +4,22 @@ date: 2022-11-18T00:15:57+01:00
 draft: false
 ---
 
-## 2 - Firmware  
+# Firmware  
+TODO general overview introduction sentence
 
-### 2.1 - BIOS  
+## BIOS/UEFI  
 
 Das Boot Menü (um auszuwählen von wo gebootet wird) lässt sich durch drücken von F12 beim Hochfahren erreichen, das BIOS Setup (Einstellungen) mit F2.
 
-#### 2.1.1 - Versionen  
+### Versions  
 
 \- Platzhalter -
 
-#### 2.1.2 - BIOS Setup  
+### BIOS/UEFI Setup  
 
 \- Platzhalter -
 
-### 2.2 - Bios Update  
+### BIOS/UEFI Update  
 
 Das BIOS lässt sich übere mehrere Wege updaten:  
 
@@ -39,7 +40,7 @@ Download Links:
 \- [Admin Pack (V5.0.0.13 - R1.12.0 (05.07.2021))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C5F54F71-16C4-46A8-A067-43392696090A)  
 \- [Admin Pack (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=4949FC92-449A-4C02-A371-9486C4C0F769)  
 
-### 2.3 - Standard OS  
+### Standard OS  
 
 \- eLux® RP  
 \- Windows® 10 IoT Enterprise 2019 LTSC  

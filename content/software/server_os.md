@@ -3,9 +3,7 @@ title: "Server OS"
 date: 2022-11-22T23:59:07+01:00
 draft: false
 ---
-
-
-### 3.1 Server Betriebssysteme  
+# Server OS  
 
 \- Ubuntu Server: ressourcenschonendste Ubuntu-Variante ohne GUI ([1](https://www.mydealz.de/comments/permalink/37679443))  
 \- Proxmox: Programme laufen in voneinander unabhängigen Containern/VMs ([1](https://www.mydealz.de/comments/permalink/37707039), [2](https://www.mydealz.de/comments/permalink/37740815), [3](https://www.mydealz.de/comments/permalink/37779177), [4](https://www.mydealz.de/comments/permalink/37779546), [5](https://www.mydealz.de/comments/permalink/37810025), [6](https://www.mydealz.de/comments/permalink/37824886), [7](https://www.mydealz.de/comments/permalink/37965374), [8](https://www.mydealz.de/comments/permalink/38000195), [9](https://www.mydealz.de/comments/permalink/38000846), [10](https://www.mydealz.de/comments/permalink/38088956), [11](https://www.mydealz.de/comments/permalink/38091387), [12](https://www.mydealz.de/comments/permalink/38094779), [13](https://www.mydealz.de/comments/permalink/38190848), [14](https://www.mydealz.de/comments/permalink/38201081))  

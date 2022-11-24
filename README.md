@@ -4,9 +4,9 @@ I created this repo for hosting everthing in GH pages by using hugo static webpa
 Feel free to contribute 
 ## Todos
  * add toc
- * restructure everthing
  * translate
  * adjust colors and add more links in the sidebar
+ * download pictures and link them in the correct chapters
  * extend readme - add infos howto add content
  * just do it
  * make ya dreams come true

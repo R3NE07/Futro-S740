@@ -1,25 +1,27 @@
 ---
-title: "Hw Content"
+title: "Specfication"
 date: 2022-11-22T23:58:53+01:00
 draft: false
 ---
 
-# 1 - Hardware  
+# Hardware Specfication  
+Overview about the hardware spec of the Futro s740
+See for more details the subchapters:
+TODO
 
-## Inhalt
-
-### 1.2 - Specs  
-
+## CPU & GPU
 | Prozessor & Grafik |  |
 | --- | --- |
 | CPU | Intel® Celeron®-Prozessor J4105 (4x 1,5-2,5GHz; 10W TDP; 4MB Cache) |
 | iGPU | Intel® UHD-Grafik 600 (max. 4096x2160 60Hz) |
 
+## Memory
 | Memory |  |
 | --- | --- |
 | Flash | M.2 SATA 128GB / 64GB / 32GB ( / 16GB? ) |
 | RAM | DDR4 2400MHz 4GB / 8GB |
 
+## Periphery
 | Peripherie |  |
 | --- | --- |
 | Ethernet | 10/100/1000 Mbit/s Realtek RTL8111G |
@@ -40,17 +42,17 @@ draft: false
 | Surfen | ca. 10W |
 | Unter Last | ca. 14W |
 
+## Dimensions
 | Maße |  |
 | --- | --- |
 | B x T x H | 36 x 165 x 147 mm |
 | B x T x H (mit Standfuß) | 76 x 175 x 158 mm |
 | Gewicht | 575g (je nach Konfiguration) |
 
-### 1.3 - Netzteil  
-
+## Power adapter
 Manche Geräte werden mit dem 19V/2,1A; Effizienzstufe VI (ADP-40HH), manche mit dem 20V/2,0A; Stufe V (ADP-40HP) geliefert.
 
-### 1.4 - CPU  
+# CPU Information
 
 Der Intel J4105 ist ein Gemini Lake SoC wie man sie auch in anderen preiswerten Mini PCs und Laptops findet.
 
@@ -84,7 +86,7 @@ address sizes	: 39 bits physical, 48 bits virtual
 power management:  
 ```
 
-### 1.4 - PCI  
+# PCI Connection 
 
 \- Der S740 besitzt weder PCIe noch mPCIe Stecker
 \- Dafür haben die M.2 Ports PCIe Schnittstellen mit jeweils PCIe 2.0 x1 und einer Datenrate von max. 5Gbit bzw. Netto nur 500MByte/s
