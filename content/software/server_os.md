@@ -1,8 +1,7 @@
----
-title: "Server OS"
-date: 2022-11-22T23:59:07+01:00
-draft: false
----
++++ 
+title = "Server OS" 
+weight = 20
++++
 # Server OS  
 
 \- Ubuntu Server: ressourcenschonendste Ubuntu-Variante ohne GUI ([1](https://www.mydealz.de/comments/permalink/37679443))  

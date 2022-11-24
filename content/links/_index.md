@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Links"
-weight = 5
+weight = 3
 +++
 
 # Links

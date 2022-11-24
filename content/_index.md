@@ -1,6 +1,6 @@
 +++
 title = "Home"
-weight = 1
+weight = 0
 +++
 
 General infos and picture

@@ -1,8 +1,7 @@
----
-title: "CPU"
-date: 2022-11-22T23:58:53+01:00
-draft: false
----
++++ 
+title = "CPU" 
+weight = 11 
++++
 
 # CPU Information
 
@@ -37,4 +36,3 @@ cache_alignment : 64
 address sizes	: 39 bits physical, 48 bits virtual  
 power management:  
 ```
-

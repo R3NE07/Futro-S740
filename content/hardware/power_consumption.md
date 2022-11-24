@@ -1,8 +1,7 @@
----
-title: "Power consumption"
-date: 2022-11-18T00:15:57+01:00
-draft: false
----
++++ 
+title = "Power consumption" 
+weight = 15 
++++
 # Power consumption
 
 Der Unterschied in Effizienzklasse rechtertigt meist nicht den Kauf eines besseren Netzteiles, allerdings hatte ich bereits Netzteile vom Vorgänger des S740 die nahezu doppelt so viel Strom verbrauchten (wahrscheinlich durch defekt wegen Alter) als sie sollten. Dann wiederum hatte ich auch ein billiges Noname 12V Netzteil das minimal sogar besser abgeschnitten hat als das Original von Fujitsu.  

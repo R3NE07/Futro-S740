@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Hardware"
-weight = 2
+weight = 1
 +++
 
 #TODO

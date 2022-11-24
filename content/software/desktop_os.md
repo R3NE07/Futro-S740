@@ -1,8 +1,7 @@
----
-title: "Desktop OS"
-date: 2022-11-22T23:59:07+01:00
-draft: false
----
++++ 
+title = "Desktop OS" 
+weight = 21 
++++
 
 # Desktop OS  
 

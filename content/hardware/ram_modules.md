@@ -1,8 +1,7 @@
----
-title: "RAM"
-date: 2022-11-18T00:15:57+01:00
-draft: false
----
++++ 
+title = "RAM" 
+weight = 12 
++++
 
 # RAM Information  
 TODO introduction sentence.

@@ -1,11 +1,7 @@
----
-title: "Firmware"
-date: 2022-11-18T00:15:57+01:00
-draft: false
----
-
-# Firmware  
-TODO general overview introduction sentence
++++ 
+title = "BIOS/UEFI" 
+weight = 16 
++++
 
 ## BIOS/UEFI  
 

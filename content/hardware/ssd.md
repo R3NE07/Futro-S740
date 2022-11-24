@@ -1,8 +1,7 @@
----
-title: "SSD Drives"
-date: 2022-11-22T23:58:53+01:00
-draft: false
----
++++ 
+title = "SSD Drives" 
+weight = 13 
++++
 
 # SSD/HDD & M.2 Ports  
 

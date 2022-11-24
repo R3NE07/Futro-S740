@@ -1,8 +1,7 @@
----
-title: "Specification"
-date: 2022-11-22T23:58:53+01:00
-draft: false
----
++++ 
+title = "Specfication" 
+weight = 10 
++++
 
 # Hardware Specification  
 Overview about the hardware spec of the Futro s740
