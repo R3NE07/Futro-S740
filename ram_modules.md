@@ -59,3 +59,4 @@
 
 ## Kingston
 - Kingston 32GB DDR4-3200 CL22 KVR32S22D8/32 ([1](https://www.mydealz.de/comments/permalink/37758088))  
+- Kingston 32GB DDR4-2666 CL19 KVR26S19D8/32 ([1](https://github.com/R3NE07/Futro-S740/pull/6#issuecomment-1330603015))
