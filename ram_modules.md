@@ -14,16 +14,16 @@
 - Crucial 16GB DDR4-2400 CT16G4SFD824A.C16FHD1 ([1](https://www.mydealz.de/comments/permalink/37684907), [2](https://www.mydealz.de/comments/permalink/37698423), [3](https://www.mydealz.de/comments/permalink/37736092), [4](https://www.mydealz.de/comments/permalink/37758713))  
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FJ ([1](https://www.mydealz.de/comments/permalink/37868599))
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FRS
-- Crucial 16GB DDR4-2666 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)) ([1](https://www.mydealz.de/comments/permalink/37454722), [2](https://www.mydealz.de/comments/permalink/37657476), [3](https://www.mydealz.de/comments/permalink/37674082), [4](https://www.mydealz.de/comments/permalink/37710822))  
-- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.C16F ([1](https://www.mydealz.de/comments/permalink/37758713))  
-
+- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.C16F ([1](https://www.mydealz.de/comments/permalink/37758713))
+- Crucial 16GB DDR4-2666 CL19 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)) ([1](https://www.mydealz.de/comments/permalink/37454722), [2](https://www.mydealz.de/comments/permalink/37657476), [3](https://www.mydealz.de/comments/permalink/37674082), [4](https://www.mydealz.de/comments/permalink/37710822))  
+- Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.C16F
 ## Samsung
-- Samsung 8GB DDR4 2666 m471a1k43db1-ctd ([1](https://www.mydealz.de/comments/permalink/37673934))  
-- Samsung 16GB DDR4-2666 M471A2K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240))  
-- Samsung 16GB DDR4-2666 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450))  
-- Samsung 16GB DDR4-2400 M471A2K43CB1-CRC ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37775352), [3](https://www.mydealz.de/comments/permalink/37812712)) (funktioniert evtl. erst nach BIOS Update) 
-- Samsung 16GB DDR4-2400 M471A2K43BB1-CRC
-- Samsung 8GB DDR4-2666 CL19 M471A1K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37758713))  
+- Samsung 8GB DDR4-2666 CL19 M471A1K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37758713))
+- Samsung 8GB DDR4-2666 CL19 M471A1K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37673934))
+- Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC  
+- Samsung 16GB DDR4-2400 CL17 M471A2K43CB1-CRC ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37775352), [3](https://www.mydealz.de/comments/permalink/37812712)) (funktioniert evtl. erst nach BIOS Update) 
+- Samsung 16GB DDR4-2666 CL19 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450)
+- Samsung 16GB DDR4-2666 CL19 M471A2K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240))
 
 ## Kimtigo
 - Kimtigo 16GB DDR4-2666 KMKS16GF68-2666V ([1](https://www.mydealz.de/comments/permalink/37675240))  
@@ -46,9 +46,8 @@
 ## Crucial
 - Crucial 32GB Ballistix DDR4-3200 - BL2K32G32C16S4B ([1](https://www.mydealz.de/comments/permalink/37621382))  
 - Crucial 16GB DDR4-2666 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)!!!) ([1](https://www.mydealz.de/comments/permalink/37684741), [2](https://www.mydealz.de/comments/permalink/37684700), [3](https://www.mydealz.de/comments/permalink/37702741))  
-- Crucial 32GB DDR4-3200 CT32G4SFD832A ([1](https://www.mydealz.de/comments/permalink/37660073))  
-- Crucial 32GB DDR4-3200 CT32G4SFD832A ([1](https://www.mydealz.de/comments/permalink/37660093))  
-- Crucial 32GB DDR4-2666 CT32G4SFD8266 ([1](https://www.mydealz.de/comments/permalink/37671092), [2](https://www.mydealz.de/comments/permalink/37835112)) 
+- Crucial 32GB DDR4-2666 CT32G4SFD8266 ([1](https://www.mydealz.de/comments/permalink/37671092), [2](https://www.mydealz.de/comments/permalink/37835112))
+- Crucial 32GB DDR4-3200 CT32G4SFD832A ([1](https://www.mydealz.de/comments/permalink/37660073), [2](https://www.mydealz.de/comments/permalink/37660093))  
 
 ## Micron
 - Micron 32GB DDR4-3200 CL22 16ATF4G64HZ-3G2B2 ([1](https://www.mydealz.de/comments/permalink/37758713))  
