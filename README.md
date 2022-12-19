@@ -17,8 +17,9 @@
 &nbsp;&nbsp;2.1 - BIOS  
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.1 - Version  
 &nbsp;&nbsp;&nbsp;&nbsp;2.1.2 - BIOS Setup  
-&nbsp;&nbsp;2.2 - Bios Update  
-&nbsp;&nbsp;2.3 - Standard OS  
+&nbsp;&nbsp;2.2 - BIOS Update  
+&nbsp;&nbsp;2.3 - BIOS Recovery  
+&nbsp;&nbsp;2.4 - Standard OS  
 3 - Windows / Linux  
 &nbsp;&nbsp;3.1 Server Betriebssysteme  
 &nbsp;&nbsp;3.2 Desktop Betriebssysteme  
@@ -32,7 +33,6 @@
 
 Dieser Guide ist weder offiziell, vollständig noch fehlerfrei!  
 Er ist lediglich eine Zusammenstellung von Informationen und Berichten anderer Futro Besitzer.  
-Wer noch etwas Wissenswertes hat, kann mich gerne anschreiben oder ein Kommentar lassen und ich füge es hinzu.
 
 ***
 
@@ -167,7 +167,7 @@ Abgespeckte Variante des Kontron D3544-S2:
 \- 2 weitere USB 3.0 Ports mit internem Header möglich ([1](https://www.mydealz.de/comments/permalink/37745987), [2](https://www.mydealz.de/comments/permalink/37760719))  
 \- 1 weiterer USB 2.0 Port mit internem Header (unbestückt!) möglich  
 \- Standard WiFi Karte: Intel 9260 (jede M.2 Karte sollte passen)  
-\- M.2 WiFi Port soll CNVi only sein ([1](https://www.mydealz.de/comments/permalink/37455555)), non-CNVi Karten funktionieren aber auch ([1](https://www.mydealz.de/comments/permalink/37792213))  
+\- M.2 WiFi Port soll CNVi only sein ([1](https://www.mydealz.de/comments/permalink/37455555)), non-CNVi Karten funktionieren aber auch ([1](https://www.mydealz.de/comments/permalink/37792213), [2](https://www.mydealz.de/comments/permalink/38263023))  
 \- Es gibt M.2 LAN-Karten die bis zu 2 weitere LAN-Buchsen hergeben (1, 2, 3, 4, 5, 6, 7, )  
   \- eine Firewall/AdBlocker lässt sich statt mit einem 2. LAN Port auch mit VLAN umsetzen  
 \- Mit PD Dummy kann eine Powerbank als Stromversorgung & USV eingesetzt werden ([1](https://www.mydealz.de/comments/permalink/37733114))  
@@ -175,7 +175,7 @@ Abgespeckte Variante des Kontron D3544-S2:
 
 ### 1.7 - Festplatten / M.2 Ports  
 
-\- im M.2 SSD Port (B-Key) passen 2242, 2260, 2280 rein (Bsp: [Transcend](https://www.amazon.de/Transcend-240GB-SATA-MTS420S-TS240GMTS420S/dp/B076PGM4Y5))   
+\- im M.2 SSD Port (B-Key) passen 2242, 2260, 2280 rein (Bsp: [Transcend](https://www.amazon.de/Transcend-240GB-SATA-MTS420S-TS240GMTS420S/dp/B076PGM4Y5), [Kioxia KBG40ZMT128G](https://www.ebay.de/itm/265924089951))   
 \- es passen gleichzeitig eine 2280 SSD UND ein 2230 WiFi Modul rein ([1](https://www.mydealz.de/comments/permalink/38191471))  
 \- M.2-WiFi Port unterstützt PCIe-Schnittstelle, USB2.0 und KEIN SATA  
 \- M.2-SSD Port unterstützt SATA UND PCIe ([1](https://www.mydealz.de/comments/permalink/37618826), [2](https://www.mydealz.de/comments/permalink/37686863)) (das nur SATA funktioniert steht im Offiziellen Datenblatt, ist aber falsch: im Datenblatt des D3544-S steht es richtig)  
@@ -191,6 +191,7 @@ Abgespeckte Variante des Kontron D3544-S2:
 \- Es gibt M.2 SSDs, die benutzen die PCIe-Schnittstelle (genannt NVMe SSD, benutzen meist 
 M-Key oder selten auch B/M-Key)  
 \- Wie die Standard verbaute SSD, gibt es aber auch M.2 SSDs, die benutzen noch die SATA-Schnittstelle (genannt NGFF SSD, benutzt B-Key oder B/M-Key)  
+\- In ein B-Key Slot passen B-Key & B-M-Key Karten, in M-Key Slot passen M-Key & B-M-Key Karten
 \- Normale SATA HDDs muss man neben dem SATA-Kabel auch irgendwie mit 5V & 12V versorgen  
 \- Für 2,5“ SATA SSDs reicht (meistens) nur 5V
 
@@ -203,6 +204,7 @@ Das proprietäre Fujitsu PoE-Modul ist optional erhältlich.
 \- 1x SO-DIMM Slot (non-ECC)  
 \- Offiziell max. 8GB, mit selbem Chipsatz wurden maximal 2x16GB bestätigt, 1x32GB ist wohl nicht machbar ([1](https://www.reddit.com/r/homelab/comments/flqcs6/asrock_j4105itx_32gb_success/))  
 \- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt ([1](https://www.mydealz.de/comments/permalink/37675998))  
+\- RAM funktioniert nur bis 2400MHz (schnellerer RAM wird einfach gedrosselt) ([1](https://www.mydealz.de/comments/permalink/38262231))  
 
 \- Liste mit funktionierenden RAM Modulen [>>hier<<](https://github.com/R3NE07/Futro-S740/blob/main/ram_modules.md)
 
@@ -214,13 +216,26 @@ Das Boot Menü (um auszuwählen von wo gebootet wird) lässt sich durch drücken
 
 #### 2.1.1 - Versionen  
 
-\- Platzhalter -
+Download Links für Update via USB-Stick:  
+\- [Admin Pack (V5.0.0.13 - R1.2.0 (29.03.2018))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=57E45317-A1C6-41AD-AD82-0D6CF8FD2AB8)  
+\- [Admin Pack (V5.0.0.13 - R1.3.0 (02.05.2018))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=E971B802-AE66-495B-99E9-1DC8EB23D229)  
+\- [Admin Pack (V5.0.0.13 - R1.5.0 (31.07.2018))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=AF6BF439-AC6C-45E4-8400-EF2941A371A4)  
+\- [Admin Pack (V5.0.0.13 - R1.6.0 (02.10.2018))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=A22F863D-ACD4-498F-80EB-E6AE0CD0935E)  
+\- [Admin Pack (V5.0.0.13 - R1.7.0 (08.11.2018))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C256FAAB-9F6C-43A5-9F70-BF711A603B85)  
+\- [Admin Pack (V5.0.0.13 - R1.8.0 (22.03.2019))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=221729C4-4E3D-49E8-8608-2825A7FB01AE)  
+\- [Admin Pack (V5.0.0.13 - R1.10.0 (10.05.2019))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=5BB0C35F-BE7A-44A1-BD3A-032A996E9629)  
+\- [Admin Pack (V5.0.0.13 - R1.11.0 (21.10.2019))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3E511BB2-742F-4AA1-BFFF-172A587C4480)  
+\- [Admin Pack (V5.0.0.13 - R1.12.0 (05.07.2021))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C5F54F71-16C4-46A8-A067-43392696090A)  
+\- [Admin Pack (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=4949FC92-449A-4C02-A371-9486C4C0F769)  
+
+Download Links für Update via Windows:  
+\- [Flash BIOS Update - Desk Flash Instant (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=1FD0DD8E-79C1-41FE-8AC5-1643B3F186EC)  
 
 #### 2.1.2 - BIOS Setup  
 
 \- Platzhalter -
 
-### 2.2 - Bios Update  
+### 2.2 - BIOS Update  
 
 Das BIOS lässt sich übere mehrere Wege updaten:  
 
@@ -237,11 +252,32 @@ Das BIOS lässt sich übere mehrere Wege updaten:
 
 \- Automatisches Update ([1](https://www.mydealz.de/comments/permalink/37778572), [2](https://www.mydealz.de/comments/permalink/37855490)) (noch unbestätigt ob dies funktioniert)  
 
-Download Links:  
-\- [Admin Pack (V5.0.0.13 - R1.12.0 (05.07.2021))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C5F54F71-16C4-46A8-A067-43392696090A)  
-\- [Admin Pack (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=4949FC92-449A-4C02-A371-9486C4C0F769)  
+\- Update mit Windows (noch unbestätigt)  
+&nbsp;&nbsp;\- Im BIOS Setup unter `Security` muss `System Firmware Update` auf `Enabled` gestellt sein  
+&nbsp;&nbsp;\- Flash Bios Update von Fujitsu herunterladen  
+&nbsp;&nbsp;\- \*.DFI.exe als Administrator ausführen & Anweisungen folgen
 
-### 2.3 - Standard OS  
+#### 2.3 - BIOS Recovery  
+
+Falls das BIOS Probleme macht, scheint es nichts zu bewirken die CMOS Batterie zu entfernen.  
+Es gibt aber die Möglichkeit einen CMOS Reset durch umstecken eines Jumpers zu erreichen. ([1](https://www.mydealz.de/comments/permalink/38283865))  
+
+> Dies spielt die gesamt BIOS Firmware neu auf.  
+Um nur die Werkseinstellungen wiederherzustellen, reicht es im BIOS Setup F2/F3 zu drücken.
+Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet noch das BIOS Setup erreichbar ist.
+
+\- Netzteil abtrennen  
+\- Gehäuse aufschrauben & Jumper auf `Recovery` Position stecken  
+\- USB Stick mit BIOS Update (Admin Pack von Fujitsu, wie oben beschrieben) einstecken  
+\- System starten  
+\- es folgen Pieptöne, bis zu ca. 10min warten bis die Pieptöne erlischen, dann rebootet das System
+\- Netzteil abtrennen  
+\- Jumper zurück auf `Standard` Position stecken  
+\- System kann wieder normal gestartet werden, BIOS Einstellungen müssten neu vorgenommen werden  
+
+> Der Abschnitt "BIOS Recovery Update" im offiziellen BIOS Handbuch beschreibt das Prozedere anders, wahrscheinlich da sie noch für ältere BIOS Versionen verfasst ist.
+
+### 2.4 - Standard OS  
 
 \- eLux® RP  
 \- Windows® 10 IoT Enterprise 2019 LTSC  
@@ -283,7 +319,7 @@ Download Links:
 ## 4 - Mods  
 
 \- Gehäuse lässt sich öffnen indem die 2 Schrauben an der IO-Blende entfernt werden, dann lässt sich die obere Gehäusehälfte nach hinten schieben & abnehmen  
-\- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460))  
+\- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460), [2](https://www.mydealz.de/comments/permalink/38286057))  
 \- 2x unbestückte SATA Ports nachlöten (es müssen zusätzlich je 4x 0402 10nF SMD Kondensatoren nachgelötet werden) ([1](https://www.mydealz.de/comments/permalink/38114275))  
 
 ## 5 - Stromverbrauch  
@@ -300,7 +336,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- BIOS kann nur EFI Systeme booten, nicht Legacy & Festplatte muss als GPT nicht MBR formatiert sein ([1](https://www.mydealz.de/comments/permalink/37726414), [2](https://www.mydealz.de/comments/permalink/38141002))  
 \- Booten von externem USB nicht möglich ([1](https://www.mydealz.de/comments/permalink/37545092))  
 \- Booten von TrueNAS nicht möglich ([1](https://www.mydealz.de/comments/permalink/37545132))  
-\- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio ([1](https://www.mydealz.de/comments/permalink/37718448), [2](https://www.mydealz.de/comments/permalink/37770939), [3](https://www.mydealz.de/comments/permalink/37800456), [4](https://www.mydealz.de/comments/permalink/37820943), [5](https://www.mydealz.de/comments/permalink/37862572), [6](https://www.mydealz.de/comments/permalink/37955579), [7](https://www.mydealz.de/comments/permalink/37994093), [8](https://www.mydealz.de/comments/permalink/38035070))  
+\- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio ([1](https://www.mydealz.de/comments/permalink/37718448), [2](https://www.mydealz.de/comments/permalink/37770939), [3](https://www.mydealz.de/comments/permalink/37800456), [4](https://www.mydealz.de/comments/permalink/37820943), [5](https://www.mydealz.de/comments/permalink/37862572), [6](https://www.mydealz.de/comments/permalink/37955579), [7](https://www.mydealz.de/comments/permalink/37994093), [8](https://www.mydealz.de/comments/permalink/38035070), [9](https://www.mydealz.de/comments/permalink/37546670))  
 \- Rattelndes Geräusch: Unter einer der 4 Schrauben die den CPU Kühlkörper festhalten ist eine Unterlegscheibe die zu groß ist - macht aber nichts ([1](https://www.mydealz.de/comments/permalink/37583467))  
 \- Bei manchen liegt ein loses „Aluröhrchen“ im PC - das ist eine Art Polster die sonst im inneren des Gehäuses geklebt ist und gegen das I/O Shield drücken würde aus ESD Gründen ([1](https://www.mydealz.de/comments/permalink/37627200), [2](https://www.mydealz.de/comments/permalink/38046826))  
 \- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC ([1](https://www.mydealz.de/comments/permalink/37607473), [2](https://www.mydealz.de/comments/permalink/37634161))  
@@ -346,12 +382,16 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- K3OS bootet nicht ([1](https://www.mydealz.de/comments/permalink/38132574))  
 \- Video/Audio Passthrough funktioniert in Proxmox (mit Libreelec/Kodi) nicht ([1](https://www.mydealz.de/comments/permalink/38190848))  
 \- Windows 11 USB Stick bootet nicht ([1](https://www.mydealz.de/comments/permalink/38202930))  
+\- Fährt nicht hoch, PC piept wiederholt 3 mal ([1](https://www.mydealz.de/comments/permalink/38252636), [2](https://www.mydealz.de/comments/permalink/38277606))  
 
 
 ## 7 - Links  
 
-\- [D3544-S Mainboard Datenblatt von Kontron](https://www.kontron.com/download/download?filename=/downloads/datasheets/d/d3544-s-mstx_20210129_datasheet.pdf&product=157718) (ähnlich dem D3544-A aus dem S740)  
-\- [Fujitsu Futro S740 Datenblatt](https://manualzz.com/doc/62121610/fujitsu-futro-s740-manual)  
+\- [D3544-S Mainboard Datenblatt von Kontron](https://www.kontron.com/downloads/datasheets/d/d3544-s-mstx_datasheet.pdf?product=157718) (ähnlich dem D3544-A aus dem S740)  
+\- [Offizielle FUTRO S740 Bedienungsanleitung [DE]](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=60F7A39E-E294-4CBE-89BF-C01BB50312D9)  
+\- [Official FUTRO S740 Manual [ENG]](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=6B286AA1-FC5F-4A7A-8917-B540A5DAF579) 
+\- [Offizielles BIOS Handbuch D3544 [DE] (ist für ältere BIOS Versionen geschrieben, Abweichungen daher möglich)](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C3E4E53E-C193-4F1D-93DD-F3F311BE5DA4)  
+\- [Official BIOS Manual D3544 [ENG] (written for old BIOS versions, deviations of instructions possible)]( https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C3E4E53E-C193-4F1D-93DD-F3F311BE5DA4 )  
 \- [Vergleich eines Raspberry Pi 4 VS. Intel J4105 System](https://uni.hi.is/helmut/2021/06/07/power-consumption-of-raspberry-pi-4-versus-intel-j4105-system/)  
 \- [WiFi Geschwindigkeitstest](https://www.mydealz.de/comments/permalink/37694659)  
 \- [passende M2 SATA SSDs auf Geizhals suchen](https://geizhals.de/?cat=hdssd&xf=252_120%7E4832_4)  
@@ -372,6 +412,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [Passmark Benchmark](https://www.mydealz.de/comments/permalink/37607626)  
 \- [CPU Benchmark mit anderen CPUs vergleichen](https://www.cpubenchmark.net/compare/BCM2711-vs-Intel-Celeron-J4105/4297vs3159)  
 \- HardwareLuxx Threads über Stromsparende Systeme ([<30W](https://www.hardwareluxx.de/community/threads/die-sparsamsten-systeme-30w-idle.1007101/), [<10W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-10w-idle-verbrauch-inkl-llano-fm1-beispiel.799083/), [<6W](https://www.hardwareluxx.de/community/threads/alltagstaugliche-desktop-systeme-mit-6w-idle-verbrauch-inkl-haswell-beispiel.1001484/))  
+\- [Gaming Benchmark](https://www.mydealz.de/comments/permalink/37547422)  
 
 ## 8 - Bilder 
 
@@ -389,4 +430,5 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [Zweite M.2 SSD mit Adapter im M.2 WiFi Slot](https://www.mydealz.de/comments/permalink/38096778)  
 \- [Zwei 2,5“ SSDs außen angebracht](https://www.mydealz.de/comments/permalink/38159297)  
 \- [nachgelöteter SATA Port](https://imgur.com/a/TAmADFS)  
+\- [Jumper Stellungen](https://www.mydealz.de/comments/permalink/38283865)  
 
