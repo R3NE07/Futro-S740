@@ -191,9 +191,9 @@ Abgespeckte Variante des Kontron D3544-S2:
 \- Es gibt M.2 SSDs, die benutzen die PCIe-Schnittstelle (genannt NVMe SSD, benutzen meist 
 M-Key oder selten auch B/M-Key)  
 \- Wie die Standard verbaute SSD, gibt es aber auch M.2 SSDs, die benutzen noch die SATA-Schnittstelle (genannt NGFF SSD, benutzt B-Key oder B/M-Key)  
-\- In ein B-Key Slot passen B-Key & B-M-Key Karten, in M-Key Slot passen M-Key & B-M-Key Karten
+\- In ein B-Key Slot passen B-Key & B-M-Key Karten, in M-Key Slot passen M-Key & B-M-Key Karten  
 \- Normale SATA HDDs muss man neben dem SATA-Kabel auch irgendwie mit 5V & 12V versorgen  
-\- Für 2,5“ SATA SSDs reicht (meistens) nur 5V
+\- Für 2,5“ SATA SSDs reicht (meistens) nur 5V  
 
 ### 1.8 - PoE  
 
@@ -304,7 +304,7 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 
 \- Windows 11 Offiziell Unterstützt ([1](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors?ranMID=46128&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&epi=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&irgwc=1&OCID=AID2200057_aff_7794_1243925&tduid=(ir__su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00)(7794)(1243925)(hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg)()&irclickid=_su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00))  
 \- Windows 10 ([1](https://www.mydealz.de/comments/permalink/37749965), [2](https://www.mydealz.de/comments/permalink/37750809), [3](https://www.mydealz.de/comments/permalink/37794159), [4](https://www.mydealz.de/comments/permalink/37847344), [5](https://www.mydealz.de/comments/permalink/38190647))  
-\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche ([1](https://www.mydealz.de/comments/permalink/37815181)) 
+\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche ([1](https://www.mydealz.de/comments/permalink/37815181))  
 \- Xubuntu / Lubuntu: ressourcenschonendere Ubuntu Variante mit GUI  
 \- Linux Mint: Einsteigerfreundliches Linux-System mit GUI (Layout ähnelt Windows Oberfläche) ([1](https://www.mydealz.de/comments/permalink/37712773))  
 \- MX Linux: Vollwertige aber ressourcenschonende Debian Distro mit GUI ([1](https://www.mydealz.de/comments/permalink/37770939), [2](https://www.mydealz.de/comments/permalink/37964669))  
