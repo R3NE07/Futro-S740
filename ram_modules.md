@@ -3,7 +3,7 @@
 ## SK Hynix
 - SK Hynix 4GB  1Rx16 DDR4-2666 PC4-2666V HMA851S6CJR6N-VK (Standard)  
 - SK Hynix 16GB 2Rx8  DDR4-2400 PC4-2400T-SE1-11 HMA82GS6AFR8N-UH ([1](https://www.mydealz.de/comments/permalink/37572566))  
-- SK Hynix 16GB 2Rx8  DDR4-2133 PC4-2133P-SB1-11 HMA82GS6AFR8N-TF  
+- SK Hynix 16GB 2Rx8  DDR4-2133 PC4-2133P-SB1-11 HMA82GS6AFR8N-TF ([1](https://github.com/R3NE07/Futro-S740/pull/6#issue-1467998911))  
 
 ## HP
 - HP S1 Series 16GB DDR4-2400 - 7EH96AA ([1](https://www.mydealz.de/comments/permalink/37765201))  
