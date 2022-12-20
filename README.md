@@ -2,32 +2,32 @@
 
 ## Inhalt
 
-1 - Hardware  
-&nbsp;&nbsp;1.1 - Overview  
-&nbsp;&nbsp;1.2 - Specs  
-&nbsp;&nbsp;1.3 - Netzteil  
-&nbsp;&nbsp;1.4 - CPU  
-&nbsp;&nbsp;1.4 - PCI  
-&nbsp;&nbsp;1.5 - Motherboard  
-&nbsp;&nbsp;1.6 - Expansion  
-&nbsp;&nbsp;1.7 - Festplatten / M.2 Ports  
-&nbsp;&nbsp;1.8 - PoE  
-&nbsp;&nbsp;1.9 - RAM  
-2 - Firmware  
-&nbsp;&nbsp;2.1 - BIOS  
-&nbsp;&nbsp;&nbsp;&nbsp;2.1.1 - Version  
-&nbsp;&nbsp;&nbsp;&nbsp;2.1.2 - BIOS Setup  
-&nbsp;&nbsp;2.2 - BIOS Update  
-&nbsp;&nbsp;2.3 - BIOS Recovery  
-&nbsp;&nbsp;2.4 - Standard OS  
-3 - Windows / Linux  
-&nbsp;&nbsp;3.1 Server Betriebssysteme  
-&nbsp;&nbsp;3.2 Desktop Betriebssysteme  
-4 - Mods  
-5 - Stromverbrauch  
-6 - Gemeldete Probleme  
-7 - Links  
-8 - Bilder 
+[1 - Hardware](README.md#1---hardware)  
+&nbsp;&nbsp;[1.1 - Overview](README.md#11---overview)  
+&nbsp;&nbsp;[1.2 - Specs](README.md#12---specs)  
+&nbsp;&nbsp;[1.3 - Netzteil](README.md#13---netzteil)  
+&nbsp;&nbsp;[1.4 - CPU](README.md#14---cpu)  
+&nbsp;&nbsp;[1.4 - PCI](README.md#14---pci)  
+&nbsp;&nbsp;[1.5 - Motherboard](README.md#15---motherboard)  
+&nbsp;&nbsp;[1.6 - Erweiterungen](README.md#16---erweiterungen)  
+&nbsp;&nbsp;[1.7 - Festplatten / M.2 Ports](README.md#17---festplatten--m2-ports)  
+&nbsp;&nbsp;[1.8 - PoE](README.md#18---poe)  
+&nbsp;&nbsp;[1.9 - RAM](README.md#19---ram)  
+[2 - Firmware](README.md#2---firmware)  
+&nbsp;&nbsp;[2.1 - BIOS](README.md#21---bios)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1.1 - Version](README.md#211---versionen)  
+&nbsp;&nbsp;&nbsp;&nbsp;[2.1.2 - BIOS Setup](README.md#212---bios-setup)  
+&nbsp;&nbsp;[2.2 - BIOS Update](README.md#22---bios-update)  
+&nbsp;&nbsp;[2.3 - BIOS Recovery](README.md#23---bios-recovery)  
+&nbsp;&nbsp;[2.4 - Standard OS](README.md#24---standard-os)  
+[3 - Windows / Linux](README.md#3---windows--linux)  
+&nbsp;&nbsp;[3.1 Server Betriebssysteme](README.md#31-server-betriebssysteme)  
+&nbsp;&nbsp;[3.2 Desktop Betriebssysteme](README.md#32-desktop-betriebssysteme)  
+[4 - Mods](README.md#4---mods)  
+[5 - Stromverbrauch](README.md#5---stromverbrauch)  
+[6 - Gemeldete Probleme](README.md#6---gemeldete-probleme)  
+[7 - Links](README.md#7---links)  
+[8 - Bilder](README.md#8---bilder) 
 
 ## Anmerkung:
 
