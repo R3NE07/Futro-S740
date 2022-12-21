@@ -268,6 +268,10 @@ Es gibt aber die Möglichkeit einen CMOS Reset durch umstecken eines Jumpers zu 
 Um nur die Werkseinstellungen wiederherzustellen, reicht es im BIOS Setup F2/F3 zu drücken.
 Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet noch das BIOS Setup erreichbar ist.
 
+<p align="center">
+  <img src="images/futro_s740_jumper_positions.jpg" height="350" title="jumper positions">
+</p>
+
 \- Netzteil abtrennen  
 \- Gehäuse aufschrauben & Jumper auf `Recovery` Position stecken  
 \- USB Stick mit BIOS Update (Admin Pack von Fujitsu, wie oben beschrieben) einstecken  
