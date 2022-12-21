@@ -18,6 +18,7 @@
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.C16F ([1](https://www.mydealz.de/comments/permalink/37758713))  
 - Crucial 16GB DDR4-2666 CL19 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)) ([1](https://www.mydealz.de/comments/permalink/37454722), [2](https://www.mydealz.de/comments/permalink/37657476), [3](https://www.mydealz.de/comments/permalink/37674082), [4](https://www.mydealz.de/comments/permalink/37710822))  
 - Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.C16F  
+- Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.M16FR ([1](https://www.mydealz.de/comments/permalink/38300891))  
 
 ## Micron
 - Micron 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 MTA4ATF51264HZ-2G6E1 ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
@@ -26,7 +27,7 @@
 - Samsung 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 M471A5244CB0-CTD ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
 - Samsung 8GB DDR4-2666 CL19 M471A1K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37758713))  
 - Samsung 8GB DDR4-2666 CL19 M471A1K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37673934))  
-- Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC  
+- Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC ([1](https://www.mydealz.de/comments/permalink/38327555)) (wurde bestätigt auch inkompatibel zu sein)  
 - Samsung 16GB DDR4-2400 CL17 M471A2K43CB1-CRC ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37775352), [3](https://www.mydealz.de/comments/permalink/37812712)) (funktioniert evtl. erst nach BIOS Update)  
 - Samsung 16GB DDR4-2666 CL19 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450)  
 - Samsung 16GB DDR4-2666 CL19 M471A2K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240))  
@@ -46,6 +47,7 @@
 ## Samsung
 - Samsung 32GB DDR4-2666 - M471A4G43MB1-CTD ([1](https://www.mydealz.de/comments/permalink/37620818))  
 - Samsung 16GB 2Rx8 DDR4-2400 PC4-2400T-TG1-11 M474A2K43BB1-CRCQ ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
+- [Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC](https://www.mydealz.de/comments/permalink/39072222) (wurde bestätigt auch kompatibel zu sein)  
 
 ## G.Skill
 - G.Skill 16GB F4-2666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621227))  
