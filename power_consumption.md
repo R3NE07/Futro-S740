@@ -107,3 +107,19 @@ Mit 16GB RAM2:
 [S740](https://www.mydealz.de/comments/permalink/38082473):  
 \- mit USB Festplatten: 10W – 12W  
 \- ohne USB Platten: 3W – 4W  
+
+[S740, 2 USB-Platten](https://www.mydealz.de/comments/permalink/38082189):  
+\- Durchschnitt: 10-12W  
+
+[Vergleich](https://www.mydealz.de/comments/permalink/38082701)  
+\- S740 Idle: 4W  
+\- Diskstation DS218+, Festplatten im Standby, Idle: 6W  
+\- Diskstation DS218+ Aktiv: 20W  
+
+[Xpenology, 2x 2,5" SSDs, 1x M.2 SATA SSD](https://www.mydealz.de/comments/permalink/38331948):  
+\- Idle: 6-9W  
+
+[Proxmox, 2x USB HDDs, 2x 2,5" SATA SSDs, 1x M.2 SATA SSD, 16GB RAM:](https://www.mydealz.de/comments/permalink/38503891)  
+\- alle Festplatten & CPU voll ausgelatet: 29W  
+\- alle Festplatten auf Standby: 12-13W  
+\- getuned mit powertop, CPU auf 800MHz mit cpufrqtools: 6-7W
