@@ -163,11 +163,12 @@ Abgespeckte Variante des Kontron D3544-S2:
 
 ### 1.6 - Erweiterungen  
 
-\- USB-C Lässt sich auch ohne proprietärem Fujitsu Kabel nachrüsten ([1](https://www.mydealz.de/comments/permalink/37704282), [2](https://www.mydealz.de/comments/permalink/37610315), [3](https://www.mydealz.de/comments/permalink/37656704), [4](https://www.mydealz.de/comments/permalink/37722851), [5](https://www.mydealz.de/comments/permalink/37810617), [6](https://www.mydealz.de/comments/permalink/38001225)), erreicht aber nur USB 2.0 Geschwindigkeiten >480MB/s ([1](https://www.mydealz.de/comments/permalink/38046486)]  
+\- USB-C Lässt sich auch ohne proprietärem Fujitsu Kabel nachrüsten ([1](https://www.mydealz.de/comments/permalink/37704282), [2](https://www.mydealz.de/comments/permalink/37610315), [3](https://www.mydealz.de/comments/permalink/37656704), [4](https://www.mydealz.de/comments/permalink/37722851), [5](https://www.mydealz.de/comments/permalink/37810617), [6](https://www.mydealz.de/comments/permalink/38001225), [7](https://www.mydealz.de/comments/permalink/38291707)), [8](https://www.mydealz.de/comments/permalink/38305063), manche Kabel erreichen evtl. nur USB 2.0 Geschwindigkeiten >480MB/s ([1](https://www.mydealz.de/comments/permalink/38046486), [2](https://www.mydealz.de/comments/permalink/38503891)]  
 \- 2 weitere USB 3.0 Ports mit internem Header möglich ([1](https://www.mydealz.de/comments/permalink/37745987), [2](https://www.mydealz.de/comments/permalink/37760719))  
 \- 1 weiterer USB 2.0 Port mit internem Header (unbestückt!) möglich  
 \- Standard WiFi Karte: Intel 9260 (jede M.2 Karte sollte passen)  
-\- M.2 WiFi Port soll CNVi only sein ([1](https://www.mydealz.de/comments/permalink/37455555)), non-CNVi Karten funktionieren aber auch ([1](https://www.mydealz.de/comments/permalink/37792213), [2](https://www.mydealz.de/comments/permalink/38263023))  
+\- WiFi Karte nachrüsten ([1](https://www.mydealz.de/comments/permalink/38263023), [2](https://www.mydealz.de/comments/permalink/38500729))  
+\- M.2 WiFi Port soll CNVi only sein ([1](https://www.mydealz.de/comments/permalink/37455555)), non-CNVi Karten funktionieren aber auch ([1](https://www.mydealz.de/comments/permalink/37792213))  
 \- Es gibt M.2 LAN-Karten die bis zu 2 weitere LAN-Buchsen hergeben (1, 2, 3, 4, 5, 6, 7, )  
   \- eine Firewall/AdBlocker lässt sich statt mit einem 2. LAN Port auch mit VLAN umsetzen  
 \- Mit PD Dummy kann eine Powerbank als Stromversorgung & USV eingesetzt werden ([1](https://www.mydealz.de/comments/permalink/37733114))  
@@ -175,14 +176,15 @@ Abgespeckte Variante des Kontron D3544-S2:
 
 ### 1.7 - Festplatten / M.2 Ports  
 
-\- im M.2 SSD Port (B-Key) passen 2242, 2260, 2280 rein (Bsp: [Transcend](https://www.amazon.de/Transcend-240GB-SATA-MTS420S-TS240GMTS420S/dp/B076PGM4Y5), [Kioxia KBG40ZMT128G](https://www.ebay.de/itm/265924089951))   
+\- im M.2 SSD Port (B-Key) passen 2242, 2260, 2280 rein (Bsp: [Transcend TS240GMTS420S](https://www.amazon.de/Transcend-240GB-SATA-MTS420S-TS240GMTS420S/dp/B076PGM4Y5), [Kioxia KBG40ZMT128G](https://www.ebay.de/itm/265924089951), [Micron MTFDDAV256TDL](https://www.ebay.de/itm/203881734179?mkcid=1&mkevt=1&mkrid=707-53477-19255-0&campid=5337601838&toolid=10001&siteid=77&customid=1617903000))   
+\- wird eine SSD länger als 2242 eingesetzt, muss diese rückseitig unbestückt sein, ansonsten muss man die Seite mit Tesafilm abkleben, oder den Abstandshalter auslöten ([1](https://www.mydealz.de/comments/permalink/38307933), [2](https://www.mydealz.de/comments/permalink/38320056), [3](https://www.mydealz.de/comments/permalink/39081394))  
 \- es passen gleichzeitig eine 2280 SSD UND ein 2230 WiFi Modul rein ([1](https://www.mydealz.de/comments/permalink/38191471))  
 \- M.2-WiFi Port unterstützt PCIe-Schnittstelle, USB2.0 und KEIN SATA  
 \- M.2-SSD Port unterstützt SATA UND PCIe ([1](https://www.mydealz.de/comments/permalink/37618826), [2](https://www.mydealz.de/comments/permalink/37686863)) (das nur SATA funktioniert steht im Offiziellen Datenblatt, ist aber falsch: im Datenblatt des D3544-S steht es richtig)  
-\- in den M.2 Ports lassen sich Adapter (Bsp: [1](https://a.aliexpress.com/_EQlO1vv), [2](https://www.aliexpress.com/item/1005004399059626.html)) für normale NVME-SSDs (M-Key) oder PCIe-zu-SATA-Adapter ([1](https://www.mydealz.de/comments/permalink/37658544), [2](https://www.mydealz.de/comments/permalink/37621967), [3](https://www.mydealz.de/comments/permalink/37687162), [4](https://www.mydealz.de/comments/permalink/37801298), [5](https://www.mydealz.de/comments/permalink/37847666), [6](https://www.mydealz.de/comments/permalink/37842619), [7](https://www.mydealz.de/comments/permalink/37913510), [8](https://www.mydealz.de/comments/permalink/38072935), [9](https://www.mydealz.de/comments/permalink/38143524), [10](https://www.mydealz.de/comments/permalink/38096778), [11](https://www.mydealz.de/comments/permalink/38102548), [12](https://www.mydealz.de/comments/permalink/38127490), [13](https://www.mydealz.de/comments/permalink/38159994)) anschließen (JMB575 Chip ist nur Port Multiplier, JMB585 wahre PCIe zu SATA Bridge ([1](https://www.mydealz.de/comments/permalink/37733413)))  
+\- in den M.2 Ports lassen sich Adapter (Bsp: [1](https://a.aliexpress.com/_EQlO1vv), [2](https://www.aliexpress.com/item/1005004399059626.html)) für normale NVME-SSDs (M-Key) oder PCIe-zu-SATA-Adapter ([1](https://www.mydealz.de/comments/permalink/37658544), [2](https://www.mydealz.de/comments/permalink/37621967), [3](https://www.mydealz.de/comments/permalink/37687162), [4](https://www.mydealz.de/comments/permalink/37801298), [5](https://www.mydealz.de/comments/permalink/37847666), [6](https://www.mydealz.de/comments/permalink/37842619), [7](https://www.mydealz.de/comments/permalink/37913510), [8](https://www.mydealz.de/comments/permalink/38072935), [9](https://www.mydealz.de/comments/permalink/38143524), [10](https://www.mydealz.de/comments/permalink/38096778), [11](https://www.mydealz.de/comments/permalink/38102548), [12](https://www.mydealz.de/comments/permalink/38127490), [13](https://www.mydealz.de/comments/permalink/38159994), [14](https://www.mydealz.de/comments/permalink/38331948), [15](https://www.mydealz.de/comments/permalink/38503891)) anschließen (JMB575 Chip ist nur Port Multiplier, JMB585 wahre PCIe zu SATA Bridge ([1](https://www.mydealz.de/comments/permalink/37733413)))  
 \- 2 unbestückte SATA Stecker lassen sich nachlöten (SATA1 funktioniert nicht gleichzeitig mit einer SATA SSD im M.2-SSD Port) ([1](https://www.mydealz.de/comments/permalink/38114275))  
-\- SATA Power von USB Adapter beziehen ([1](https://www.mydealz.de/comments/permalink/37847969), [2](https://www.mydealz.de/comments/permalink/38145355))  
-\- SATA Power mit selbstgebastelten Kabel vom internen Power In beziehen & 12V statt 19V Netzteil benutzen ([1](https://www.mydealz.de/comments/permalink/38149298), [2](https://www.mydealz.de/comments/permalink/38072259))  
+\- SATA Power von USB Adapter beziehen ([1](https://www.mydealz.de/comments/permalink/37847969), [2](https://www.mydealz.de/comments/permalink/38145355), [3](https://www.mydealz.de/comments/permalink/38331948), [4](https://www.mydealz.de/comments/permalink/38503891))  
+\- SATA Power mit selbstgebastelten Kabel vom internen Power In beziehen & 12V statt 19V Netzteil benutzen ([1](https://www.mydealz.de/comments/permalink/38149298), [2](https://www.mydealz.de/comments/permalink/38072259), [2](https://www.mydealz.de/comments/permalink/38663988))  
 \- am unbestückten SATA Power Stecker liegen bei manchen 5V & 12V an, bei manchen nicht ([1](https://www.mydealz.de/comments/permalink/38164885), [2](https://www.reddit.com/r/homelab/comments/xmr07d/comment/iptq1g1/))  
 \- 2,5” SSD mit M.2 B-Key zu SATA Adapter ([1](https://www.mydealz.de/comments/permalink/37666881))  
 \- Wieviele Festplatten können Intern versorgt werden? ([1](https://www.mydealz.de/comments/permalink/37688485))  
@@ -288,13 +290,13 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 ### 3.1 Server Betriebssysteme  
 
 \- Ubuntu Server: ressourcenschonendste Ubuntu-Variante ohne GUI ([1](https://www.mydealz.de/comments/permalink/37679443))  
-\- Proxmox: Programme laufen in voneinander unabhängigen Containern/VMs ([1](https://www.mydealz.de/comments/permalink/37707039), [2](https://www.mydealz.de/comments/permalink/37740815), [3](https://www.mydealz.de/comments/permalink/37779177), [4](https://www.mydealz.de/comments/permalink/37779546), [5](https://www.mydealz.de/comments/permalink/37810025), [6](https://www.mydealz.de/comments/permalink/37824886), [7](https://www.mydealz.de/comments/permalink/37965374), [8](https://www.mydealz.de/comments/permalink/38000195), [9](https://www.mydealz.de/comments/permalink/38000846), [10](https://www.mydealz.de/comments/permalink/38088956), [11](https://www.mydealz.de/comments/permalink/38091387), [12](https://www.mydealz.de/comments/permalink/38094779), [13](https://www.mydealz.de/comments/permalink/38190848), [14](https://www.mydealz.de/comments/permalink/38201081))  
+\- Proxmox: Programme laufen in voneinander unabhängigen Containern/VMs ([1](https://www.mydealz.de/comments/permalink/37707039), [2](https://www.mydealz.de/comments/permalink/37740815), [3](https://www.mydealz.de/comments/permalink/37779177), [4](https://www.mydealz.de/comments/permalink/37779546), [5](https://www.mydealz.de/comments/permalink/37810025), [6](https://www.mydealz.de/comments/permalink/37824886), [7](https://www.mydealz.de/comments/permalink/37965374), [8](https://www.mydealz.de/comments/permalink/38000195), [9](https://www.mydealz.de/comments/permalink/38000846), [10](https://www.mydealz.de/comments/permalink/38088956), [11](https://www.mydealz.de/comments/permalink/38091387), [12](https://www.mydealz.de/comments/permalink/38094779), [13](https://www.mydealz.de/comments/permalink/38190848), [14](https://www.mydealz.de/comments/permalink/38201081), [15](https://www.mydealz.de/comments/permalink/38377249), [16](https://www.mydealz.de/comments/permalink/38500729))  
 \- Unraid: NAS OS (erlaubt auch Container/VMs wie mit Proxmox)  
 \- pfsense: Firewall (erfordert 2. LAN-Buchse oder VLAN) ([1](https://www.mydealz.de/comments/permalink/37736675))  
 \- OPNsense: Firewall ([1](https://www.mydealz.de/comments/permalink/37671080), [2](https://www.mydealz.de/comments/permalink/37821932), [3](https://www.mydealz.de/comments/permalink/38189725))  
 \- TrueNAS: NAS-OS  
 \- Openmediavault: NAS-OS  
-\- Xpenology: Opensource Synology-OS Portierung für ein DIY NAS ([1](https://www.mydealz.de/comments/permalink/37855651))  
+\- Xpenology: Opensource Synology-OS Portierung für ein DIY NAS ([1](https://www.mydealz.de/comments/permalink/37855651), [2](https://www.mydealz.de/comments/permalink/38331948))  
 \- Homeassistant OS ([1](https://www.mydealz.de/comments/permalink/38089223), [2](https://www.mydealz.de/comments/permalink/38201081))  
 \- ESXi 6.7 Zustrom: Hypervisor wie Proxmox ([1](https://www.mydealz.de/comments/permalink/37579814))  
 \- Raspberrymatic ([1](https://www.mydealz.de/comments/permalink/37708467))  
@@ -302,17 +304,18 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 
 ### 3.2 Desktop Betriebssysteme  
 
-\- Windows 11 Offiziell Unterstützt ([1](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors?ranMID=46128&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&epi=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&irgwc=1&OCID=AID2200057_aff_7794_1243925&tduid=(ir__su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00)(7794)(1243925)(hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg)()&irclickid=_su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00))  
-\- Windows 10 ([1](https://www.mydealz.de/comments/permalink/37749965), [2](https://www.mydealz.de/comments/permalink/37750809), [3](https://www.mydealz.de/comments/permalink/37794159), [4](https://www.mydealz.de/comments/permalink/37847344), [5](https://www.mydealz.de/comments/permalink/38190647))  
-\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche ([1](https://www.mydealz.de/comments/permalink/37815181))  
+\- Windows 11 ([Offiziell Unterstützt](https://learn.microsoft.com/en-us/windows-hardware/design/minimum/supported/windows-11-supported-intel-processors?ranMID=46128&ranEAID=hL3Qp0zRBOc&ranSiteID=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&epi=hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg&irgwc=1&OCID=AID2200057_aff_7794_1243925&tduid=(ir__su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00)(7794)(1243925)(hL3Qp0zRBOc-hDPkto_jHQw1eMxVCpCXmg)()&irclickid=_su0a3f2oowkfb2xqpdedbsu9oe2xqqusnpmm9gnm00) ) ([1](https://www.mydealz.de/comments/permalink/38306858), [2](https://www.mydealz.de/comments/permalink/38595663))  
+\- Windows 10 ([1](https://www.mydealz.de/comments/permalink/37749965), [2](https://www.mydealz.de/comments/permalink/37750809), [3](https://www.mydealz.de/comments/permalink/37794159), [4](https://www.mydealz.de/comments/permalink/37847344), [5](https://www.mydealz.de/comments/permalink/38190647), [6](https://www.mydealz.de/comments/permalink/38286555))  
+\- Windows 7 ([1](https://www.mydealz.de/comments/permalink/38286555), [2](https://www.mydealz.de/comments/permalink/38294844), [3](https://www.mydealz.de/comments/permalink/38300388))  
+\- Ubuntu: Einsteigerfreundlichstes Linux-System mit grafischer Oberfläche ([1](https://www.mydealz.de/comments/permalink/37815181), [2](https://www.mydealz.de/comments/permalink/38443425))  
 \- Xubuntu / Lubuntu: ressourcenschonendere Ubuntu Variante mit GUI  
 \- Linux Mint: Einsteigerfreundliches Linux-System mit GUI (Layout ähnelt Windows Oberfläche) ([1](https://www.mydealz.de/comments/permalink/37712773))  
-\- MX Linux: Vollwertige aber ressourcenschonende Debian Distro mit GUI ([1](https://www.mydealz.de/comments/permalink/37770939), [2](https://www.mydealz.de/comments/permalink/37964669))  
-\- Debian ([1](https://www.mydealz.de/comments/permalink/37767466), [2](https://www.mydealz.de/comments/permalink/37842619), [3](https://www.mydealz.de/comments/permalink/37987037))  
+\- MX Linux: Vollwertige aber ressourcenschonende Debian Distro mit GUI ([1](https://www.mydealz.de/comments/permalink/37770939), [2](https://www.mydealz.de/comments/permalink/37964669), [3](https://www.mydealz.de/comments/permalink/38286238))  
+\- Debian ([1](https://www.mydealz.de/comments/permalink/37767466), [2](https://www.mydealz.de/comments/permalink/37842619), [3](https://www.mydealz.de/comments/permalink/37987037), [4](https://www.mydealz.de/comments/permalink/38306109), [5](https://www.mydealz.de/comments/permalink/38463544))  
 \- DietPi: Extremely Lightweight Debian OS ([1](https://www.mydealz.de/comments/permalink/37884979))  
 \- LibreELEC: beschte OS für Mediaplayer (kommt mit Kodi installiert) ([1](https://www.mydealz.de/comments/permalink/38190848))  
 \- Batocera: Emulator Gamestation ([1](https://www.mydealz.de/comments/permalink/37714216), [2](https://www.mydealz.de/comments/permalink/37959699))  
-\- Endeavour OS ([1](https://www.mydealz.de/comments/permalink/37714720))  
+\- Endeavour OS ([1](https://www.mydealz.de/comments/permalink/37714720), [2](https://www.mydealz.de/comments/permalink/38282773), [3](https://www.mydealz.de/comments/permalink/38327915), [4](https://www.mydealz.de/comments/permalink/38443425))  
 \- ChromeOS Flex ([1](https://www.mydealz.de/comments/permalink/37823609))  
 \- Devuan ([1](https://www.mydealz.de/comments/permalink/38013633))  
 
@@ -321,6 +324,7 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 \- Gehäuse lässt sich öffnen indem die 2 Schrauben an der IO-Blende entfernt werden, dann lässt sich die obere Gehäusehälfte nach hinten schieben & abnehmen  
 \- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460), [2](https://www.mydealz.de/comments/permalink/38286057))  
 \- 2x unbestückte SATA Ports nachlöten (es müssen zusätzlich je 4x 0402 10nF SMD Kondensatoren nachgelötet werden) ([1](https://www.mydealz.de/comments/permalink/38114275))  
+\- Lautsrpecher nachrüsten: 4-poliger Molex PicoBlade 1,25mm - äußere Pins werden kurzgeschlossen, innere Pins an den neuen Lautsprechern ([1](https://www.mydealz.de/comments/permalink/38573298), [2](https://www.mydealz.de/comments/permalink/38950255)) (Original Lautsprecher: 3,2 Ohm, 2W)  
 
 ## 5 - Stromverbrauch  
 
@@ -339,7 +343,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- Manche DP zu HDMI Adapter können an manchen Monitoren Probleme bringen: kein Bild, nur 1080p, kein Audio ([1](https://www.mydealz.de/comments/permalink/37718448), [2](https://www.mydealz.de/comments/permalink/37770939), [3](https://www.mydealz.de/comments/permalink/37800456), [4](https://www.mydealz.de/comments/permalink/37820943), [5](https://www.mydealz.de/comments/permalink/37862572), [6](https://www.mydealz.de/comments/permalink/37955579), [7](https://www.mydealz.de/comments/permalink/37994093), [8](https://www.mydealz.de/comments/permalink/38035070), [9](https://www.mydealz.de/comments/permalink/37546670))  
 \- Rattelndes Geräusch: Unter einer der 4 Schrauben die den CPU Kühlkörper festhalten ist eine Unterlegscheibe die zu groß ist - macht aber nichts ([1](https://www.mydealz.de/comments/permalink/37583467))  
 \- Bei manchen liegt ein loses „Aluröhrchen“ im PC - das ist eine Art Polster die sonst im inneren des Gehäuses geklebt ist und gegen das I/O Shield drücken würde aus ESD Gründen ([1](https://www.mydealz.de/comments/permalink/37627200), [2](https://www.mydealz.de/comments/permalink/38046826))  
-\- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC ([1](https://www.mydealz.de/comments/permalink/37607473), [2](https://www.mydealz.de/comments/permalink/37634161))  
+\- Je nach mitgeliefertem Netzteil kommt es zu fiepen im PC ([1](https://www.mydealz.de/comments/permalink/37607473), [2](https://www.mydealz.de/comments/permalink/37634161), [3](https://www.mydealz.de/comments/permalink/38349422))  
 \- USB-Stick wird nicht als Boot Option aufgelistet ([1](https://www.mydealz.de/comments/permalink/37570172))  
 \- Linux bootet nicht? Booteintrag muss manuell angelegt werden ([1](https://www.mydealz.de/comments/permalink/37643719), [2](https://www.mydealz.de/comments/permalink/37612394), [3](https://www.mydealz.de/comments/permalink/37581112), [4](https://www.mydealz.de/comments/permalink/37594025), [5](https://www.mydealz.de/comments/permalink/37765918), [6](https://www.mydealz.de/comments/permalink/38138143))  
 \- USB Stick bootet nicht? Secure Boot im BIOS-Setup deaktivieren ([1](https://www.mydealz.de/comments/permalink/37570618))  
@@ -382,8 +386,16 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- K3OS bootet nicht ([1](https://www.mydealz.de/comments/permalink/38132574))  
 \- Video/Audio Passthrough funktioniert in Proxmox (mit Libreelec/Kodi) nicht ([1](https://www.mydealz.de/comments/permalink/38190848))  
 \- Windows 11 USB Stick bootet nicht ([1](https://www.mydealz.de/comments/permalink/38202930))  
-\- Fährt nicht hoch, PC piept wiederholt 3 mal ([1](https://www.mydealz.de/comments/permalink/38252636), [2](https://www.mydealz.de/comments/permalink/38277606))  
-
+\- Fährt nicht hoch, System piept wiederholt 3 mal ([1](https://www.mydealz.de/comments/permalink/38252636), [2](https://www.mydealz.de/comments/permalink/38277606), [3](https://www.mydealz.de/comments/permalink/38614847))  
+\- EndeavorOS kein Bild & Audio nach Update + Installer kommt nicht weiter als Partitionierung + USB Sticks werden nicht erkannt ([1](https://www.mydealz.de/comments/permalink/38282773), [2](https://www.mydealz.de/comments/permalink/38443425))  
+\- Windows 7 bootet mit einem Fehlercode ([1](https://www.mydealz.de/comments/permalink/38286555), [2](https://www.mydealz.de/comments/permalink/38294844), [3](https://www.mydealz.de/comments/permalink/38300388))  
+\- [USB-C Port funktioniert nicht](https://www.mydealz.de/comments/permalink/38305063)  
+\- [NVMe wird im M.2 WiFi, aber nicht im M.2 SSD Port erkannt](https://www.mydealz.de/comments/permalink/38383243)  
+\- [Kein Audio über Ubuntuntu](https://www.mydealz.de/comments/permalink/38625424)  
+\- [WoL funktioniert unter Proxmox Update nicht](https://www.mydealz.de/comments/permalink/38500729)  
+\- [Ist ein USB-Hub mit WiFi- & Zigbee-Stick angeschlossen, kommt BIOS Error B4 & A2](https://www.mydealz.de/comments/permalink/38573298)  
+\- [1cm des Bildes fehlt ringserum](https://www.mydealz.de/comments/permalink/38595663)  
+\- [Proxmox Installer findet die SSD  nicht](https://www.mydealz.de/comments/permalink/38678940)  
 
 ## 7 - Links  
 
@@ -401,6 +413,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [Thread über Proxmox VS. Docker](https://www.mydealz.de/comments/permalink/37675393)  
 \- 3D gedruckter Standfuß ([1](https://www.thingiverse.com/thing:5529474), [2](https://www.printables.com/de/model/288427-fujitsu-futro-s740-feets), [3](https://www.printables.com/de/model/284749-base-stand-for-fujitsu-futro-s740))  
 \- [3D gedruckter VESA-Mount Adapter](https://www.printables.com/de/model/287058-vesa-monitor-mount-adapter-plate-for-fujitsu-futro)  
+\- [3D gedruckte Server Rack Mount 2U](https://www.thingiverse.com/thing:5608494)  
 \- [[Video] Kipper auf S740 installieren um 3D Drucker zu steuern](https://www.youtube.com/watch?v=bUENy-sOL9c)  
 \- [Nextcloud mit Reverse Proxy installieren (auf Nginx/Proxmox)](https://www.schreiners-it.de/nextcloud/nextcloud-hinter-reverse-proxy-installieren/)  
 \- [3D Modelle](http://sp-it.net/index.php?option=com_content&view=article&id=1566&Itemid=140&jsmallfib=1&dir=JSROOT/drivers/fujitsu/Products/Mainboards/Industrial-und-ExtendedLifetime/D3544-S_Mini-STX/Mechanics-und-3D#/div--div-download)  
@@ -431,4 +444,7 @@ Wem der Stromverbrauch wichtig ist sollte sich ein verlässliches Energiemessger
 \- [Zwei 2,5“ SSDs außen angebracht](https://www.mydealz.de/comments/permalink/38159297)  
 \- [nachgelöteter SATA Port](https://imgur.com/a/TAmADFS)  
 \- [Jumper Stellungen](https://www.mydealz.de/comments/permalink/38283865)  
-
+\- [S740 mit 2x 2,5" SSDs](https://www.mydealz.de/comments/permalink/38331948)  
+\- [2x SATA SSDs + 2x USB HDDs](https://www.mydealz.de/comments/permalink/38503891)  
+\- [2,5" SSD am nachbestückten SATA Port + 2x 3,5" HDDs](https://www.mydealz.de/comments/permalink/38663988)  
+\- [SMD Bauteile an der DC-Hohlbuchse](https://www.mydealz.de/comments/permalink/39077752)  
