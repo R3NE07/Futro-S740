@@ -29,7 +29,7 @@
 - Samsung 8GB DDR4-2666 CL19 M471A1K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37673934))  
 - Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC ([1](https://www.mydealz.de/comments/permalink/38327555)) (wurde bestätigt auch inkompatibel zu sein)  
 - Samsung 16GB DDR4-2400 CL17 M471A2K43CB1-CRC ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37775352), [3](https://www.mydealz.de/comments/permalink/37812712)) (funktioniert evtl. erst nach BIOS Update)  
-- Samsung 16GB DDR4-2666 CL19 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450)  
+- Samsung 16GB DDR4-2666 CL19 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450))  
 - Samsung 16GB DDR4-2666 CL19 M471A2K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240))  
 
 ## Kimtigo
@@ -47,7 +47,7 @@
 ## Samsung
 - Samsung 32GB DDR4-2666 - M471A4G43MB1-CTD ([1](https://www.mydealz.de/comments/permalink/37620818))  
 - Samsung 16GB 2Rx8 DDR4-2400 PC4-2400T-TG1-11 M474A2K43BB1-CRCQ ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
-- [Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC](https://www.mydealz.de/comments/permalink/39072222) (wurde bestätigt auch kompatibel zu sein)  
+- Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC ([1](https://www.mydealz.de/comments/permalink/39072222) (wurde bestätigt auch kompatibel zu sein))  
 
 ## G.Skill
 - G.Skill 16GB F4-2666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621227))  
@@ -56,7 +56,7 @@
 ## Crucial
 - Crucial 32GB Ballistix DDR4-3200 - BL2K32G32C16S4B ([1](https://www.mydealz.de/comments/permalink/37621382))  
 - Crucial 16GB DDR4-2666 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)!!!) ([1](https://www.mydealz.de/comments/permalink/37684741), [2](https://www.mydealz.de/comments/permalink/37684700), [3](https://www.mydealz.de/comments/permalink/37702741))
-- Crucial 16GB DDR4-3200 CT16G4SFRA32A.C8FF  
+- Crucial 16GB DDR4-3200 CT16G4SFRA32A.C8FF ([1](https://github.com/R3NE07/Futro-S740/pull/10), [2](https://github.com/R3NE07/Futro-S740/pull/13#issue-1556960486))  
 - Crucial 32GB DDR4-2666 CT32G4SFD8266 ([1](https://www.mydealz.de/comments/permalink/37671092), [2](https://www.mydealz.de/comments/permalink/37835112))  
 - Crucial 32GB DDR4-3200 CT32G4SFD832A ([1](https://www.mydealz.de/comments/permalink/37660073), [2](https://www.mydealz.de/comments/permalink/37660093))  
 
