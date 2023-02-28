@@ -31,6 +31,7 @@
 - Samsung 16GB DDR4-2400 CL17 M471A2K43CB1-CRC ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37775352), [3](https://www.mydealz.de/comments/permalink/37812712)) (funktioniert evtl. erst nach BIOS Update)  
 - Samsung 16GB DDR4-2666 CL19 M471A2K43CB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240), [2](https://www.mydealz.de/comments/permalink/37737205), [3](https://www.mydealz.de/comments/permalink/38169890), [4](https://www.mydealz.de/comments/permalink/38173450))  
 - Samsung 16GB DDR4-2666 CL19 M471A2K43DB1-CTD ([1](https://www.mydealz.de/comments/permalink/37675240))  
+- Samsung 16GB DDR4-3200 CL22 M471A2K43DB1-CWE
 
 ## Kimtigo
 - Kimtigo 16GB DDR4-2666 KMKS16GF68-2666V ([1](https://www.mydealz.de/comments/permalink/37675240))  
