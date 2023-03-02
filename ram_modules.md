@@ -38,6 +38,9 @@
 ## Transcend
 - Transcend 16GB DDR4-2666 CL19 JM2666HSB-16G ([1](https://www.mydealz.de/comments/permalink/37868599))  
 
+## Integral
+- Integral 16GB DDR4-2400 CL17 PC4-19200 Unbuffered Non-ECC SODIMM 1.2V 1Gx8 ([1](https://amzn.eu/d/iLs8o6D))  
+
 
 # Nicht unterstützte RAM Module:
 
