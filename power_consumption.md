@@ -123,3 +123,10 @@ Mit 16GB RAM2:
 \- alle Festplatten & CPU voll ausgelatet: 29W  
 \- alle Festplatten auf Standby: 12-13W  
 \- getuned mit powertop, CPU auf 800MHz mit cpufrqtools: 6-7W
+
+[UNRAID 6.115, 1x USB HDD, 1x M.2 SATA SSD, 8GB RAM:]  
+\- ausgeschaltet, ready for WOL: 2,4W
+\- idle UNRAID: 7W
+\- 4 Container, 1 Win 10 VM Durchschnitt: 8W
+\- 4 Container, 1 Win 10 VM Volllast: 16W
+\- 
