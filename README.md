@@ -169,7 +169,7 @@ Abgespeckte Variante des Kontron D3544-S2:
 \- Standard WiFi Karte: Intel 9260 (jede M.2 Karte sollte passen)  
 \- WiFi Karte nachrüsten ([1](https://www.mydealz.de/comments/permalink/38263023), [2](https://www.mydealz.de/comments/permalink/38500729))  
 \- M.2 WiFi Port soll CNVi only sein ([1](https://www.mydealz.de/comments/permalink/37455555)), non-CNVi Karten funktionieren aber auch ([1](https://www.mydealz.de/comments/permalink/37792213))  
-\- Es gibt M.2 LAN-Karten die bis zu 2 weitere LAN-Buchsen hergeben (1, 2, 3, 4, 5, 6, 7, )  
+\- Es gibt M.2 LAN-Karten die bis zu 2 weitere LAN-Buchsen hergeben ([1](https://www.mydealz.de/comments/permalink/37760460), [2](https://www.mydealz.de/comments/permalink/37791852), [3](https://www.mydealz.de/comments/permalink/37793620), [4](https://www.mydealz.de/comments/permalink/37993085))  
   \- eine Firewall/AdBlocker lässt sich statt mit einem 2. LAN Port auch mit VLAN umsetzen  
 \- Mit PD Dummy kann eine Powerbank als Stromversorgung & USV eingesetzt werden ([1](https://www.mydealz.de/comments/permalink/37733114))  
 \- RS232 Stecker nachrüsten ([1](https://www.mydealz.de/comments/permalink/38078623))  
@@ -199,7 +199,8 @@ M-Key oder selten auch B/M-Key)
 
 ### 1.8 - PoE  
 
-Das proprietäre Fujitsu PoE-Modul ist optional erhältlich.
+- Das proprietäre Fujitsu PoE-Modul ist optional erhältlich (für viel Geld)  
+- Alternativ gibt es externe PoE Splitter mit einem Hohlsteckeranschluss ([1](https://github.com/R3NE07/Futro-S740/issues/16#issue-1600581355))  
 
 ### 1.9 - RAM  
 
@@ -326,8 +327,8 @@ Der CMOS Reset Trick hilft, wenn das BIOS gebrickt ist und weder etwas bootet no
 ## 4 - Mods  
 
 \- Gehäuse lässt sich öffnen indem die 2 Schrauben an der IO-Blende entfernt werden, dann lässt sich die obere Gehäusehälfte nach hinten schieben & abnehmen  
-\- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460), [2](https://www.mydealz.de/comments/permalink/38286057))  
-\- 2x unbestückte SATA Ports nachlöten (es müssen zusätzlich je 4x 0402 10nF SMD Kondensatoren nachgelötet werden) ([1](https://www.mydealz.de/comments/permalink/38114275))  
+\- unbestückten RS232 Seriell-Port nachlöten ([1](https://www.mydealz.de/comments/permalink/38079460), [2](https://www.mydealz.de/comments/permalink/38286057), [3](https://github.com/R3NE07/Futro-S740/issues/12))  
+\- 2x unbestückte SATA Ports nachlöten (es müssen zusätzlich je 4x 0402 10nF SMD Kondensatoren nachgelötet werden) ([1](https://www.mydealz.de/comments/permalink/38114275), [2](https://github.com/R3NE07/Futro-S740/issues/11))  
 \- Lautsrpecher nachrüsten: 4-poliger Molex PicoBlade 1,25mm - äußere Pins werden kurzgeschlossen, innere Pins an den neuen Lautsprechern ([1](https://www.mydealz.de/comments/permalink/38573298), [2](https://www.mydealz.de/comments/permalink/38950255)) (Original Lautsprecher: 3,2 Ohm, 2W)  
 
 ## 5 - Stromverbrauch  
