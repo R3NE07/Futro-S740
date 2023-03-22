@@ -1,5 +1,7 @@
 # Futro S740 - Guide/ Specs/ Information
 
+\> English version [here](https://github.com/R3NE07/Futro-S740/blob/main/README_EN.md) <  
+
 ## Inhalt
 
 [1 - Hardware](README.md#1---hardware)  
@@ -177,12 +179,12 @@ Abgespeckte Variante des Kontron D3544-S2:
 ### 1.7 - Festplatten / M.2 Ports  
 
 \- im M.2 SSD Port (B-Key) passen 2242, 2260, 2280 rein (Bsp: [Transcend TS240GMTS420S](https://www.amazon.de/Transcend-240GB-SATA-MTS420S-TS240GMTS420S/dp/B076PGM4Y5), [Kioxia KBG40ZMT128G](https://www.ebay.de/itm/265924089951), [Micron MTFDDAV256TDL](https://www.ebay.de/itm/203881734179?mkcid=1&mkevt=1&mkrid=707-53477-19255-0&campid=5337601838&toolid=10001&siteid=77&customid=1617903000))   
-\- wird eine SSD länger als 2242 eingesetzt, muss diese rückseitig unbestückt sein, ansonsten muss man die Seite mit Tesafilm abkleben, oder den Abstandshalter auslöten ([1](https://www.mydealz.de/comments/permalink/38307933), [2](https://www.mydealz.de/comments/permalink/38320056), [3](https://www.mydealz.de/comments/permalink/39081394))  
+\- wird eine SSD länger als 2242 eingesetzt, muss diese rückseitig unbestückt sein, oder man muss die Seite mit Tesafilm abkleben, oder den Abstandshalter auslöten um einen Kurzschluss zu verhindern ([1](https://www.mydealz.de/comments/permalink/38307933), [2](https://www.mydealz.de/comments/permalink/38320056), [3](https://www.mydealz.de/comments/permalink/39081394))  
 \- es passen gleichzeitig eine 2280 SSD UND ein 2230 WiFi Modul rein ([1](https://www.mydealz.de/comments/permalink/38191471))  
-\- M.2-WiFi Port unterstützt PCIe-Schnittstelle, USB2.0 und KEIN SATA  
-\- M.2-SSD Port unterstützt SATA UND PCIe ([1](https://www.mydealz.de/comments/permalink/37618826), [2](https://www.mydealz.de/comments/permalink/37686863)) (das nur SATA funktioniert steht im Offiziellen Datenblatt, ist aber falsch: im Datenblatt des D3544-S steht es richtig)  
+\- M.2-WiFi Port unterstützt PCIe, USB2.0 und kein SATA  
+\- M.2-SSD Port unterstützt SATA und PCIe ([1](https://www.mydealz.de/comments/permalink/37618826), [2](https://www.mydealz.de/comments/permalink/37686863)) (das nur SATA funktioniert steht im Offiziellen Datenblatt, ist aber falsch: im Datenblatt des D3544-S steht es richtig)  
 \- in den M.2 Ports lassen sich Adapter (Bsp: [1](https://a.aliexpress.com/_EQlO1vv), [2](https://www.aliexpress.com/item/1005004399059626.html)) für normale NVME-SSDs (M-Key) oder PCIe-zu-SATA-Adapter ([1](https://www.mydealz.de/comments/permalink/37658544), [2](https://www.mydealz.de/comments/permalink/37621967), [3](https://www.mydealz.de/comments/permalink/37687162), [4](https://www.mydealz.de/comments/permalink/37801298), [5](https://www.mydealz.de/comments/permalink/37847666), [6](https://www.mydealz.de/comments/permalink/37842619), [7](https://www.mydealz.de/comments/permalink/37913510), [8](https://www.mydealz.de/comments/permalink/38072935), [9](https://www.mydealz.de/comments/permalink/38143524), [10](https://www.mydealz.de/comments/permalink/38096778), [11](https://www.mydealz.de/comments/permalink/38102548), [12](https://www.mydealz.de/comments/permalink/38127490), [13](https://www.mydealz.de/comments/permalink/38159994), [14](https://www.mydealz.de/comments/permalink/38331948), [15](https://www.mydealz.de/comments/permalink/38503891)) anschließen (JMB575 Chip ist nur Port Multiplier, JMB585 wahre PCIe zu SATA Bridge ([1](https://www.mydealz.de/comments/permalink/37733413)))  
-\- 2 unbestückte SATA Stecker lassen sich nachlöten (SATA1 funktioniert nicht gleichzeitig mit einer SATA SSD im M.2-SSD Port) ([1](https://www.mydealz.de/comments/permalink/38114275))  
+\- 2 unbestückte SATA Stecker lassen sich nachlöten (SATA1 funktioniert nicht gleichzeitig mit einer SATA SSD im M.2-SSD Port) ([1](https://www.mydealz.de/comments/permalink/38114275), [2](https://github.com/R3NE07/Futro-S740/issues/11#issue-1552071065))  
 \- SATA Power von USB Adapter beziehen ([1](https://www.mydealz.de/comments/permalink/37847969), [2](https://www.mydealz.de/comments/permalink/38145355), [3](https://www.mydealz.de/comments/permalink/38331948), [4](https://www.mydealz.de/comments/permalink/38503891))  
 \- SATA Power mit selbstgebastelten Kabel vom internen Power In beziehen & 12V statt 19V Netzteil benutzen ([1](https://www.mydealz.de/comments/permalink/38149298), [2](https://www.mydealz.de/comments/permalink/38072259), [2](https://www.mydealz.de/comments/permalink/38663988))  
 \- am unbestückten SATA Power Stecker liegen bei manchen 5V & 12V an, bei manchen nicht ([1](https://www.mydealz.de/comments/permalink/38164885), [2](https://www.reddit.com/r/homelab/comments/xmr07d/comment/iptq1g1/))  
@@ -194,7 +196,7 @@ Abgespeckte Variante des Kontron D3544-S2:
 M-Key oder selten auch B/M-Key)  
 \- Wie die Standard verbaute SSD, gibt es aber auch M.2 SSDs, die benutzen noch die SATA-Schnittstelle (genannt NGFF SSD, benutzt B-Key oder B/M-Key)  
 \- In ein B-Key Slot passen B-Key & B-M-Key Karten, in M-Key Slot passen M-Key & B-M-Key Karten  
-\- Normale SATA HDDs muss man neben dem SATA-Kabel auch irgendwie mit 5V & 12V versorgen  
+\- Normale SATA HDDs muss man neben dem SATA-Signal-Kabel auch irgendwie mit 5V & 12V versorgen  
 \- Für 2,5“ SATA SSDs reicht (meistens) nur 5V  
 
 ### 1.8 - PoE  
