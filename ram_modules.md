@@ -51,7 +51,8 @@
 
 ## G.Skill
 - G.Skill 16GB F4-2666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621227))  
-- G.Skill RipJaws 32GB DDR4-2666 F42666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621219))  
+- G.Skill RipJaws 32GB DDR4-2666 F4-2666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621219))  
+- G.Skill RipJaws 16GB DDR4-2666 F4-2666C18S-16GRS
 
 ## Crucial
 - Crucial 32GB Ballistix DDR4-3200 - BL2K32G32C16S4B ([1](https://www.mydealz.de/comments/permalink/37621382))  
