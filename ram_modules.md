@@ -39,6 +39,9 @@
 ## Transcend
 - Transcend 16GB DDR4-2666 CL19 JM2666HSB-16G ([1](https://www.mydealz.de/comments/permalink/37868599))  
 
+## Kembona
+- Kembona 16GB DDR4-2666 CL17 KBN24S17D8/16G
+
 # Nicht unterstützte RAM Module:
 
 ## SK Hynix
