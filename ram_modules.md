@@ -54,7 +54,8 @@
 - G.Skill RipJaws 32GB DDR4-2666 F42666C19D-32GRS ([1](https://www.mydealz.de/comments/permalink/37621219))  
 
 ## Crucial
-- Crucial 32GB Ballistix DDR4-3200 - BL2K32G32C16S4B ([1](https://www.mydealz.de/comments/permalink/37621382))  
+- Crucial 32GB Ballistix DDR4-3200 - BL2K32G32C16S4B ([1](https://www.mydealz.de/comments/permalink/37621382))
+- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A - C16FBR1
 - Crucial 16GB DDR4-2666 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)!!!) ([1](https://www.mydealz.de/comments/permalink/37684741), [2](https://www.mydealz.de/comments/permalink/37684700), [3](https://www.mydealz.de/comments/permalink/37702741))
 - Crucial 16GB DDR4-3200 CT16G4SFRA32A.C8FF ([1](https://github.com/R3NE07/Futro-S740/pull/10), [2](https://github.com/R3NE07/Futro-S740/pull/13#issue-1556960486), [3](https://github.com/R3NE07/Futro-S740/issues/9#issue-1506966280))  
 - Crucial 32GB DDR4-2666 CT32G4SFD8266 ([1](https://www.mydealz.de/comments/permalink/37671092), [2](https://www.mydealz.de/comments/permalink/37835112))  
