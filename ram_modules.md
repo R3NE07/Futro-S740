@@ -18,7 +18,10 @@
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.C16F ([1](https://www.mydealz.de/comments/permalink/37758713))  
 - Crucial 16GB DDR4-2666 CL19 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/comments/permalink/37675998)) ([1](https://www.mydealz.de/comments/permalink/37454722), [2](https://www.mydealz.de/comments/permalink/37657476), [3](https://www.mydealz.de/comments/permalink/37674082), [4](https://www.mydealz.de/comments/permalink/37710822))  
 - Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.C16F  
-- Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.M16FR ([1](https://www.mydealz.de/comments/permalink/38300891))  
+- Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.M16FR ([1](https://www.mydealz.de/comments/permalink/46581330))
+
+## Kingston
+- 16 GB Kingston KCRXJ6 ([1](https://www.mydealz.de/comments/permalink/37875518))  
 
 ## Micron
 - Micron 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 MTA4ATF51264HZ-2G6E1 ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
