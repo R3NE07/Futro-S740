@@ -39,6 +39,9 @@
 ## Transcend
 - Transcend 16GB DDR4-2666 CL19 JM2666HSB-16G ([1](https://www.mydealz.de/comments/permalink/37868599))  
 
+## SMART
+- SMART 16GB DDR4-2133 SH5722G8RZR23S2-SB
+
 # Nicht unterstützte RAM Module:
 
 ## SK Hynix
