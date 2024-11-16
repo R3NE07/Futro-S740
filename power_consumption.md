@@ -129,4 +129,3 @@ Mit 16GB RAM2:
 \- idle UNRAID: 7W
 \- 4 Container, 1 Win 10 VM Durchschnitt: 8W
 \- 4 Container, 1 Win 10 VM Volllast: 16W
-\- 
