@@ -13,11 +13,11 @@
 [Windows 11](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37575538):  
 \- Idle: 4W  
 
-[Windows 11](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37588489):  
+[Windows 11](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37588489):  
 \- Vollast: 14W  
 \- Surfen: 9W  
 
-[Vergleich](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37588992):  
+[Vergleich](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37588992):  
 \- S740 mit Debian 11: 3,4W  
 \- Raspberry Pi 4 mit USB-SSD: 5,0W  
 
@@ -25,17 +25,17 @@
 \- S740 mit Fedora 36: 3,3W  
 \- Raspberry Pi: 3,7W  
 
-[Linux Mint](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37610016):  
+[Linux Mint](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37610016):  
 \- Idle: 4,5W  
 \- Surfen: 10W  
 
-[HomeAssistantOS](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37612394):  
+[HomeAssistantOS](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37612394):  
 \- Idle: 4,6W  
 
-[Proxmox mit allerlei Containern & USB-Geräten](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37606163):  
+[Proxmox mit allerlei Containern & USB-Geräten](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37606163):  
 \- 6,5W  
 
-[Ubuntu Server, Nextcloud, ADP-40HH 19V Netzteil](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37686884):  
+[Ubuntu Server, Nextcloud, ADP-40HH 19V Netzteil](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37686884):  
 \- Idle: 2,7W  
 \- Last: 13,1W  
 
@@ -49,7 +49,7 @@ Mit powertop optimiert]:
 [Windows](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37689549):  
 \- Durchschnitt im Alltagsgebrauch (Office, Surfen): 12W  
 
-[Vergleich](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37707039):  
+[Vergleich](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37707039):  
 \- S740, Proxmox, 1TB, 4GB RAM: 2,8W  
 \- Raspi 3, Debian, piHole: 2,6W  
 
@@ -57,11 +57,11 @@ Mit powertop optimiert]:
 \- Idle: 2,8W  
 \- Standby: 0,6W  
 
-[S740, Proxmox](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37736092):  
+[S740, Proxmox](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37736092):  
 \- mit 4GB RAM: ca. 3W  
 \- mit 16GB RAM: ca. 6,5W  
 
-[S740, Proxmox](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37675240):  
+[S740, Proxmox](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37675240):  
 \- mit 4GB RAM: ca. 6W  
 \- mit 16GB RAM: ca. 10W  
 
@@ -83,13 +83,13 @@ Mit 16GB RAM2:
 \- mit Micron 8GB 2666Mhz RAM: 2,2W  
 \- mit Crucial 16GB 2400Mhz RAM: 4,6W  
 
-[Proxmox, 7 Container, 8GB RAM](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37821524):  
+[Proxmox, 7 Container, 8GB RAM](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37821524):  
 \- Idle: ca. 3W  
 
-[ioBroker, Deconz, piHole](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37834024):  
+[ioBroker, Deconz, piHole](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37834024):  
 \- 4-6W  
 
-[Proxmox, 120GB SSD, 8GB RAM](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37965374):  
+[Proxmox, 120GB SSD, 8GB RAM](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37965374):  
 \- Idle: 2,5W  
 \- mit WLAN ModuL +1W  
 \- Zigbee Stick +0W  
@@ -116,10 +116,10 @@ Mit 16GB RAM2:
 \- Diskstation DS218+, Festplatten im Standby, Idle: 6W  
 \- Diskstation DS218+ Aktiv: 20W  
 
-[Xpenology, 2x 2,5" SSDs, 1x M.2 SATA SSD](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-38331948):  
+[Xpenology, 2x 2,5" SSDs, 1x M.2 SATA SSD](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-38331948):  
 \- Idle: 6-9W  
 
-[Proxmox, 2x USB HDDs, 2x 2,5" SATA SSDs, 1x M.2 SATA SSD, 16GB RAM:](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-38503891)  
+[Proxmox, 2x USB HDDs, 2x 2,5" SATA SSDs, 1x M.2 SATA SSD, 16GB RAM:](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-38503891)  
 \- alle Festplatten & CPU voll ausgelatet: 29W  
 \- alle Festplatten auf Standby: 12-13W  
 \- getuned mit powertop, CPU auf 800MHz mit cpufrqtools: 6-7W
