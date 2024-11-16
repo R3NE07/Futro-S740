@@ -209,7 +209,7 @@ M-Key oder selten auch B/M-Key)
 \- 1x SO-DIMM Slot (non-ECC)  
 \- Offiziell max. 8GB, mit selbem Chipsatz wurden maximal 2x16GB bestätigt, 1x32GB ist wohl nicht machbar ([1](https://www.reddit.com/r/homelab/comments/flqcs6/asrock_j4105itx_32gb_success/))  
 \- Von 16GB RAM Riegeln wird scheinbar nur Dual Rank unterstützt (8 Chips pro Seite) und kein Single Rank (4 Chips pro Seite), von kleineren Größen werden wohl aber auch Single Rank Riegel unterstützt ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37675998))  
-\- RAM funktioniert nur bis 2400MHz (schnellerer RAM wird einfach gedrosselt) ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-38262231))  
+\- RAM funktioniert nur bis 2400MHz (schnellerer RAM wird einfach gedrosselt) ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-38262231))  
 
 \- Liste mit funktionierenden RAM Modulen [>>hier<<](https://github.com/R3NE07/Futro-S740/blob/main/ram_modules.md)
 
@@ -248,7 +248,7 @@ Das BIOS lässt sich übere mehrere Wege updaten:
 &nbsp;&nbsp;\- `sudo fwupdmgr refresh`  
 &nbsp;&nbsp;\- `sudo fwupdmgr update`  
 
-\- mit einem USB-Stick (ohne vorinstallierten OS) ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37708446), [2](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37709993), [3](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37716882), [4](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37775352), [5](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37792344), [6](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37997294))  
+\- mit einem USB-Stick (ohne vorinstallierten OS) ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37708446), [2](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37709993), [3](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37716882), [4](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37775352), [5](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37792344), [6](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37997294))  
 &nbsp;&nbsp;\- Admin Pack herunterladen  
 &nbsp;&nbsp;\- Inhalt der ZIP Datei auf einen leeren USB Stick kopieren (einfach per drag & drop)  
 &nbsp;&nbsp;\- Den S740 hochfahren und F12 drücken  
