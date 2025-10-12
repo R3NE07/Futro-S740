@@ -24,7 +24,8 @@
 - Micron 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 MTA4ATF51264HZ-2G6E1 ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
 
 ## Samsung
-- Samsung 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 M471A5244CB0-CTD ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
+- Samsung 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 M471A5244CB0-CTD ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))
+- Samsung 4GB 1Rx16 DDR4-2400 PC4-2400T-SC0-11 M471A5244CB0-CRC
 - Samsung 8GB DDR4-2666 CL19 M471A1K43CB1-CTD ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37758713))  
 - Samsung 8GB DDR4-2666 CL19 M471A1K43DB1-CTD ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37673934))  
 - Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-38327555)) (wurde bestätigt auch inkompatibel zu sein)  
