@@ -1,10 +1,12 @@
 # Unterstützte RAM Module:
 
 ## SK Hynix
-- SK Hynix 4GB 1Rx16 DDR4-2666 PC4-2666V HMA851S6CJR6N-VK (Standard)  
+- SK Hynix 4GB 1Rx16 DDR4-2666 PC4-2666V HMA851S6CJR6N-VK (Standard)
+- SK Hynix 8GB 1Rx8 DDR4-2400 PC4-2400T-SA1-11 HMA81GS6AFR8N-UH
 - SK Hynix 16GB 2Rx8 DDR4-2400 PC4-2400T-SE1-11 HMA82GS6AFR8N-UH ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37572566))  
 - SK Hynix 16GB 2Rx8 DDR4-2133 PC4-2133P-SB1-11 HMA82GS6AFR8N-TF ([1](https://github.com/R3NE07/Futro-S740/pull/6#issue-1467998911))  
 - SK Hynix 16GB 2Rx8 DDR4-3200 CL22 HMA82GS6CJR8N-XN ([1](https://github.com/R3NE07/Futro-S740/issues/9#issue-1506966280))
+
 ## HP
 - HP S1 Series 16GB DDR4-2400 - 7EH96AA ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37765201))  
 
@@ -24,7 +26,8 @@
 - Micron 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 MTA4ATF51264HZ-2G6E1 ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
 
 ## Samsung
-- Samsung 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 M471A5244CB0-CTD ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))  
+- Samsung 4GB 1Rx16 DDR4-2666 PC4-2666V-SC0-11 M471A5244CB0-CTD ([1](https://github.com/R3NE07/Futro-S740/pull/7#issue-1470022523))
+- Samsung 4GB 1Rx16 DDR4-2400 PC4-2400T-SC0-11 M471A5244CB0-CRC
 - Samsung 8GB DDR4-2666 CL19 M471A1K43CB1-CTD ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37758713))  
 - Samsung 8GB DDR4-2666 CL19 M471A1K43DB1-CTD ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37673934))  
 - Samsung 16GB DDR4-2400 CL17 M471A2K43BB1-CRC ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-38327555)) (wurde bestätigt auch inkompatibel zu sein)  
