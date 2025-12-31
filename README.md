@@ -235,7 +235,7 @@ Download Links für Update via USB-Stick:
 \- [Admin Pack (V5.0.0.13 - R1.14.0 (08.01.2025))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=FA0A6053-4D47-4C28-93A3-021C2E530D93)  
 
 Download Links für Update via Windows:  
-\- [Flash BIOS Update - Desk Flash Instant (V5.0.0.13 - R1.14.0 (08.01.2025))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=E43CC471-FC10-44A5-8CF4-B0ECE76F9BAD)  
+\- [Flash BIOS Update - Desk Flash Instant (V5.0.0.13 - R1.14.0 (08.01.2025))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=E43CC471-FC10-44A5-8CF4-B0ECE76F9BAD)
 
 #### 2.1.2 - BIOS Setup  
 

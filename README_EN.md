@@ -2,7 +2,7 @@
 
 \> Deutsche Version [hier](https://github.com/R3NE07/Futro-S740/blob/main/README.md) <  
 
-## Inhalt
+## Contents
 
 [1 - Hardware](README.md#1---hardware)  
 &nbsp;&nbsp;[1.1 - Overview](README.md#11---overview)  
@@ -231,9 +231,10 @@ Download links for update via USB stick:
 \- [Admin Pack (V5.0.0.13 - R1.11.0 (21.10.2019))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=3E511BB2-742F-4AA1-BFFF-172A587C4480)  
 \- [Admin Pack (V5.0.0.13 - R1.12.0 (05.07.2021))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=C5F54F71-16C4-46A8-A067-43392696090A)  
 \- [Admin Pack (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=4949FC92-449A-4C02-A371-9486C4C0F769)  
+\- [Admin Pack (V5.0.0.13 - R1.14.0 (08.01.2025))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=FA0A6053-4D47-4C28-93A3-021C2E530D93)  
 
 Download links for update via Windows:  
-\- [Flash BIOS Update - Desk Flash Instant (V5.0.0.13 - R1.13.0 (23.09.2022))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=1FD0DD8E-79C1-41FE-8AC5-1643B3F186EC)  
+\- [Flash BIOS Update - Desk Flash Instant (V5.0.0.13 - R1.14.0 (08.01.2025))](https://support.ts.fujitsu.com/IndexDownload.asp?SoftwareGuid=E43CC471-FC10-44A5-8CF4-B0ECE76F9BAD)
 
 #### 2.1.2 - BIOS Setup  
 
