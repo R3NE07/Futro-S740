@@ -14,7 +14,8 @@
 - Crucial 16GB DDR4-2133 CL15 CT16G4SFD8213 ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37675240))  
 - Crucial 16GB DDR4-2400 CT16G4SFD824A.C16FHD1 ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37684907), [2](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37698423), [3](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#comment-37736092), [4](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37758713))  
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FJ ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37868599))  
-- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FRS  
+- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FRS
+- Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.M16FE
 - Crucial 16GB DDR4-2400 CL17 CT16G4SFD824A.C16F ([1](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37758713))  
 - Crucial 16GB DDR4-2666 CL19 CT16G4SFRA266 ([es gibt 2 Ausführungen](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37675998)) ([1](https://www.mydealz.de/deals/fujitsu-q5562-mini-pc-4gb-ram-intel-g4400t-cpu-ohne-ssd-als-raspberry-alternative-fur-smarthome-server-ebay-refurbished-2038281#reply-37454722), [2](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37657476), [3](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37674082), [4](https://www.mydealz.de/deals/refurbished-fujitsu-futro-s740-raspberry-pi-alternative-2041563#reply-37710822))  
 - Crucial 16GB DDR4-3200 CL22 CT16G4SFRA32A.C16F  
